@@ -1,0 +1,164 @@
+[
+ {
+  "id": "Y01",
+  "type": "vocabulary_gap",
+  "query": "When is the chequered flag shown?",
+  "gold": [
+   "B5.16.1"
+  ],
+  "note": "the clause says end-of-session signal but also names the chequered flag, so this is a near-literal control, not a vocabulary gap"
+ },
+ {
+  "id": "Y02",
+  "type": "vocabulary_gap",
+  "query": "Can a driver celebrate on the way back to the pits after winning?",
+  "gold": [
+   "B5.16.3"
+  ],
+  "note": "the clause says act of celebration before reaching parc ferme"
+ },
+ {
+  "id": "Y03",
+  "type": "vocabulary_gap",
+  "query": "Can a car that broke down on its way to the grid before the start still start from the grid?",
+  "gold": [
+   "B5.2.4"
+  ],
+  "note": "the clause says reconnaissance lap and under its own power; the formation lap clauses are a different event"
+ },
+ {
+  "id": "Y04",
+  "type": "vocabulary_gap",
+  "query": "Are dogs allowed in the paddock?",
+  "gold": [
+   "B1.5.7"
+  ],
+  "note": "the clause says animals"
+ },
+ {
+  "id": "Y05",
+  "type": "vocabulary_gap",
+  "query": "Who may touch a car that has stopped on the circuit?",
+  "gold": [
+   "B1.5.3"
+  ],
+  "note": "the clause says no one except the driver, with named places where it is allowed; B1.5.2 (marshals remove a stopped car) is a supporting clause and not gold; topic overlaps frozen Q12 but the clause is different"
+ },
+ {
+  "id": "Y06",
+  "type": "vocabulary_gap",
+  "query": "Is a car still running in the session if the driver climbs out and walks away?",
+  "gold": [
+   "B1.8.9"
+  ],
+  "note": "the clause says abandoned and withdrawn from the session"
+ },
+ {
+  "id": "Y07",
+  "type": "vocabulary_gap",
+  "query": "What must a driver do with the car when retiring on the circuit?",
+  "gold": [
+   "B1.8.8"
+  ],
+  "note": "the clause says abandons, neutral or clutch disengaged, ERS shut down, steering wheel in place"
+ },
+ {
+  "id": "Y08",
+  "type": "vocabulary_gap",
+  "query": "Is a practice start allowed on the warm-up lap before the race?",
+  "gold": [
+   "B5.6.3"
+  ],
+  "note": "the clause says formation lap and practice starts forbidden"
+ },
+ {
+  "id": "Y10",
+  "type": "vocabulary_gap",
+  "query": "Can officials make a team use different tyres from the ones it was given?",
+  "gold": [
+   "B6.2.6"
+  ],
+  "note": "the clause says the Technical Delegate may select alternative tyres"
+ },
+ {
+  "id": "Y11",
+  "type": "vocabulary_gap",
+  "query": "Can a team swap a brand new tyre for another new one?",
+  "gold": [
+   "B6.2.7"
+  ],
+  "note": "the clause says present both tyres to the Technical Delegate"
+ },
+ {
+  "id": "Y12",
+  "type": "vocabulary_gap",
+  "query": "Are wet-weather tyres compulsory when the formation lap is run behind the Safety Car?",
+  "gold": [
+   "B6.3.7"
+  ],
+  "note": "B6.3.7 applies when B5.10.1a or B5.15.2a applies; B5.10.1 is a supporting clause and not gold"
+ },
+ {
+  "id": "Y13",
+  "type": "vocabulary_gap",
+  "query": "When can intermediate or wet tyres be used in practice?",
+  "gold": [
+   "B6.3.5"
+  ],
+  "note": "after the Race Director declares the track wet"
+ },
+ {
+  "id": "Y14",
+  "type": "vocabulary_gap",
+  "query": "Who has to attend the podium and the press conference?",
+  "gold": [
+   "B10.2.1"
+  ],
+  "note": "first three finishers and a representative of the winning constructor"
+ },
+ {
+  "id": "Y15",
+  "type": "vocabulary_gap",
+  "query": "Must teams give a young driver a run in practice?",
+  "gold": [
+   "B1.7.3"
+  ],
+  "note": "the clause says a driver with no more than two Championship Races, in FP1 or FP2 at two Competitions"
+ },
+ {
+  "id": "Y16",
+  "type": "vocabulary_gap",
+  "query": "Who may stand on the pit wall at the start of the race?",
+  "gold": [
+   "B5.1.8"
+  ],
+  "note": "pit wall kept free of all persons except permitted team members, officials and fire marshals"
+ },
+ {
+  "id": "Y17",
+  "type": "vocabulary_gap",
+  "query": "Can a car be stopped and inspected after a crash?",
+  "gold": [
+   "B3.1.5"
+  ],
+  "note": "the clause says the Race Director may require a car involved in an accident be stopped and checked"
+ },
+ {
+  "id": "Y18",
+  "type": "vocabulary_gap",
+  "query": "Can teams cool the car on the grid with a fan running on petrol?",
+  "gold": [
+   "B5.1.3"
+  ],
+  "note": "the clause says forced air equipment must be powered only by electricity"
+ },
+ {
+  "id": "Y19",
+  "type": "vocabulary_gap",
+  "query": "What happens to a car that is too damaged to get back to the pits?",
+  "gold": [
+   "B1.8.7"
+  ],
+  "note": "the clause says leave the track as soon as it is safe, at the Race Director's discretion"
+ }
+]
