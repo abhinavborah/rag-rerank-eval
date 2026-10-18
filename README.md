@@ -89,6 +89,7 @@ queries again, so re-running the notebook does not overwrite a record. To redo a
 | `results/pool50_log.jsonl` | scores for the pool of 50 analysis |
 | `results/screen_log.jsonl`, `results/screen_run_log.jsonl` | the screened batch |
 | `results/rank_shift_summary.md` | rank-shift tables for the main cases and the model-written questions, the pool of 50 table, and answer excerpts, built from the logs |
+| `results/gen_all_score_log.jsonl` | scores and ranks for all 150 model-written questions, from the retrieval-only analysis of section 18 |
 | `results/gen_queries.json`, `results/questions_cache.json`, `results/gen_screen_log.jsonl`, `results/gen_run_log.jsonl` | the model-written question set |
 
 ## Results
@@ -150,10 +151,14 @@ table above.
   vocabulary mismatch. After a
   cosine-only screen kept the 19 questions whose gold was at baseline rank 4 to 10, the two pipelines were
   run once. The gold chunk entered the top 3 for 15 of 19. Reading the answers against the clause text, in
-  10 of those 15 Answer 1 says the passages do not cover the question or is wrong while Answer 2 is correct;
-  in the other 5 the rank changes but the answer does not, or the gold label is weak. The questions are
+  11 of those 15 Answer 1 says the passages do not cover the question or is wrong while Answer 2 is correct;
+  in the other 4 the rank changes but the answer does not, or the gold label is weak. The questions are
   model written and are not the author's wording. A random reordering of 10 chunks would put the gold chunk
   in the top 3 with probability 0.3, so 15 or more of 19 has a binomial tail probability of about 1.5e-5.
+  That null only rules out a random reordering. Re-ranking all 150 questions (retrieval only, section 18 of
+  the notebook) gives hit@3 0.79 for the baseline and 0.85 re-ranked: 15 questions gained and 7 lost
+  (2 of the 94 with gold at rank 1 and 5 of the 25 with gold at ranks 2 to 3). Among the 131 questions
+  that were not kept, hit@3 fell from 119 to 112.
 
 ## Limitations
 

@@ -52,7 +52,7 @@ Model-written questions kept by the screen (gold at baseline rank 4 to 10), 19 o
 | Z131 | model-written | Once the leader is behind the Safety Car, when does the Safety Car actually head | B5.13.5: Duration of SC Period a. Except under Article B5.13.4c, the Safety Car... | #5 | #1 | no / yes |
 | Z135 | model-written | If a car was in its garage when the restart was paused, where does it line up wh | B5.15.1#2: iii. In all cases the order will be taken at the last point at which i... | #7 | #3 | no / yes |
 
-Reading of the answers against the clause text (author's assessment). Answer-level restorations, where Answer 1 says the passages do not cover the question or is wrong and Answer 2 is correct: Z027, Z042, Z050, Z059, Z064, Z074, Z115, Z128, Z130, Z131. Rank only or weak gold label: Z044, Z102, Z124, Z125, Z135. Not restored: Z021 (rank 4 to 9), Z045, Z101, Z105.
+Reading of the answers against the clause text (author's assessment). Answer-level restorations, where Answer 1 says the passages do not cover the question or is wrong and Answer 2 is correct: Z027, Z042, Z050, Z059, Z064, Z074, Z115, Z128, Z130, Z131, Z135. Rank only or weak gold label: Z044, Z102, Z124, Z125. Not restored: Z021 (rank 4 to 9), Z045, Z101, Z105.
 
 ## B. Pool of 50 (outside the assignment design), gold rank among the 50 nearest chunks
 
