@@ -1,0 +1,1352 @@
+[
+ {
+  "id": "Z001",
+  "type": "model_written",
+  "query": "Under what circumstances can the FIA require or allow a team to swap out a part of the sporting power unit control components?",
+  "gold": [
+   "B8.2.5"
+  ],
+  "tokens_out": 37
+ },
+ {
+  "id": "Z002",
+  "type": "model_written",
+  "query": "Could you tell me what I'm supposed to do with my speed and overtaking when the VSC is on, especially if I'm coming into the pits or leaving them?",
+  "gold": [
+   "B4.1.4#1"
+  ],
+  "tokens_out": 52
+ },
+ {
+  "id": "Z003",
+  "type": "model_written",
+  "query": "What punishments can a team or driver get for breaking the rules, such as being dropped down the starting grid or thrown out of the results?",
+  "gold": [
+   "B1.9.5#2"
+  ],
+  "tokens_out": 247
+ },
+ {
+  "id": "Z004",
+  "type": "model_written",
+  "query": "How long is the gap between the first two free practice sessions, and when does the third one start relative to the second?",
+  "gold": [
+   "B2.1.1"
+  ],
+  "tokens_out": 32
+ },
+ {
+  "id": "Z005",
+  "type": "model_written",
+  "query": "If my mechanic is still touching my car on the grid after the 15-second signal, what do I have to do, and what happens if I don't?",
+  "gold": [
+   "B5.5.5"
+  ],
+  "tokens_out": 273
+ },
+ {
+  "id": "Z006",
+  "type": "model_written",
+  "query": "How many extra sets of dry-weather test tyres does each driver get at a Standard Format Competition where ICTT is scheduled?",
+  "gold": [
+   "B6.6.1"
+  ],
+  "tokens_out": 44
+ },
+ {
+  "id": "Z007",
+  "type": "model_written",
+  "query": "Once qualifying for a sprint event is over, how long do teams have to cover their cars and get them ready for seals, and when can the seals come off before the sprint starts?",
+  "gold": [
+   "B3.4.2"
+  ],
+  "tokens_out": 54
+ },
+ {
+  "id": "Z008",
+  "type": "model_written",
+  "query": "Who is allowed to give instructions to competitors during checks and scrutineering, and who looks after the parc ferm\u00e9?",
+  "gold": [
+   "B3.1.6"
+  ],
+  "tokens_out": 39
+ },
+ {
+  "id": "Z009",
+  "type": "model_written",
+  "query": "How do we get the top three finishers off the track and to the podium, and who makes sure they don't get held up in the parc ferm\u00e9 on the way?",
+  "gold": [
+   "APPENDIX B4#3"
+  ],
+  "tokens_out": 44
+ },
+ {
+  "id": "Z010",
+  "type": "model_written",
+  "query": "What do drivers see or get told if the track is too unsafe to start on time, and does the signal differ depending on whether wet-weather tyres are required?",
+  "gold": [
+   "B5.10.1"
+  ],
+  "tokens_out": 48
+ },
+ {
+  "id": "Z011",
+  "type": "model_written",
+  "query": "What do teams have to do for media at each race weekend, and when does it have to happen after the second practice session?",
+  "gold": [
+   "B10.1.2#2"
+  ],
+  "tokens_out": 33
+ },
+ {
+  "id": "Z012",
+  "type": "model_written",
+  "query": "When are team staff who work on the race cars not allowed to be inside the circuit grounds?",
+  "gold": [
+   "APPENDIX B1#3"
+  ],
+  "tokens_out": 263
+ },
+ {
+  "id": "Z013",
+  "type": "model_written",
+  "query": "Can my team swap out a broken part during a tyre test, or do we have to keep the car exactly as it is?",
+  "gold": [
+   "B6.6.5"
+  ],
+  "tokens_out": 36
+ },
+ {
+  "id": "Z014",
+  "type": "model_written",
+  "query": "How long do teams have to cover and seal their cars after qualifying ends, and when can the seals come off before the race?",
+  "gold": [
+   "B3.4.3"
+  ],
+  "tokens_out": 37
+ },
+ {
+  "id": "Z015",
+  "type": "model_written",
+  "query": "What happens to the finish flag if the Pit Lane is being used when the leading car crosses the line?\n\nHmm, let me make it sound like everyday speech instead:\n\nWhen does the race officially end and the chequered flag come out?",
+  "gold": [
+   "B5.16.1"
+  ],
+  "tokens_out": 72
+ },
+ {
+  "id": "Z016",
+  "type": "model_written",
+  "query": "When the scrutineers check the cars during a race weekend, do the stewards publish the exact measurements, or only report when a car breaks the rules?",
+  "gold": [
+   "B3.1.8"
+  ],
+  "tokens_out": 47
+ },
+ {
+  "id": "Z017",
+  "type": "model_written",
+  "query": "How far in advance do teams have to be told about any limits on how much battery power the car can use, or how much energy it can regain on a lap?",
+  "gold": [
+   "B7.2.1#1"
+  ],
+  "tokens_out": 242
+ },
+ {
+  "id": "Z018",
+  "type": "model_written",
+  "query": "How many team members are allowed into the parc ferm\u00e9 area per car, and what are they allowed to do there?",
+  "gold": [
+   "B3.6.3"
+  ],
+  "tokens_out": 32
+ },
+ {
+  "id": "Z019",
+  "type": "model_written",
+  "query": "Can a team work on its car or leave equipment in the faster lane of the pit lane?",
+  "gold": [
+   "B1.6.1#1"
+  ],
+  "tokens_out": 235
+ },
+ {
+  "id": "Z020",
+  "type": "model_written",
+  "query": "What camera do teams have to set up above their pit box, and does it need to stay uncovered while the car is being worked on?",
+  "gold": [
+   "B1.6.1#2"
+  ],
+  "tokens_out": 38
+ },
+ {
+  "id": "Z021",
+  "type": "model_written",
+  "query": "What's the rule for when cars are allowed to pass each other behind the Safety Car, and when does that restriction end?",
+  "gold": [
+   "B5.13.2#2"
+  ],
+  "tokens_out": 38
+ },
+ {
+  "id": "Z022",
+  "type": "model_written",
+  "query": "If a team pulls its car out after the deadline, is its starting spot left empty?",
+  "gold": [
+   "B2.5.4#2"
+  ],
+  "tokens_out": 442
+ },
+ {
+  "id": "Z023",
+  "type": "model_written",
+  "query": "If a sprint runs past one hour without reaching its planned distance, when does the leader get the finish signal, and does a stoppage change that?",
+  "gold": [
+   "B2.3.3"
+  ],
+  "tokens_out": 296
+ },
+ {
+  "id": "Z024",
+  "type": "model_written",
+  "query": "Does a car that can't drive itself to the grid after its warm-up lap get to start from the grid?",
+  "gold": [
+   "B5.2.4"
+  ],
+  "tokens_out": 33
+ },
+ {
+  "id": "Z025",
+  "type": "model_written",
+  "query": "What happens to a driver if their car leaves the pit box or garage in an unsafe condition during a race?",
+  "gold": [
+   "B1.6.2#1"
+  ],
+  "tokens_out": 34
+ },
+ {
+  "id": "Z026",
+  "type": "model_written",
+  "query": "Can a driver who is racing in this season's championship take part in a test at a circuit hosting one of its races if the test is within 60 days before that race?",
+  "gold": [
+   "B11.4.10#1"
+  ],
+  "tokens_out": 230
+ },
+ {
+  "id": "Z027",
+  "type": "model_written",
+  "query": "Where do the cars go and in what order if the start is halted after the formation laps behind the Safety Car?",
+  "gold": [
+   "B5.14.1"
+  ],
+  "tokens_out": 34
+ },
+ {
+  "id": "Z028",
+  "type": "model_written",
+  "query": "Can we top up or drain fuel on the car once it's left the pit lane for the warm-up laps, and until when is that not allowed?",
+  "gold": [
+   "B5.1.4"
+  ],
+  "tokens_out": 44
+ },
+ {
+  "id": "Z029",
+  "type": "model_written",
+  "query": "Under what circumstances can a team swap out its car for a new one, and does the replacement have to match the original?",
+  "gold": [
+   "APPENDIX B2#6"
+  ],
+  "tokens_out": 34
+ },
+ {
+  "id": "Z030",
+  "type": "model_written",
+  "query": "Can a driver move the adjustable bodywork whenever they like, or only once the car says it's allowed, and can they only partly open it when the track is slippery?",
+  "gold": [
+   "B7.1.2"
+  ],
+  "tokens_out": 51
+ },
+ {
+  "id": "Z031",
+  "type": "model_written",
+  "query": "Does a driver have to join at least one of the shorter sessions before they're allowed to start a full test session?",
+  "gold": [
+   "B5.1.1"
+  ],
+  "tokens_out": 208
+ },
+ {
+  "id": "Z032",
+  "type": "model_written",
+  "query": "What do teams have to hand over to the Technical Delegate for scrutineering, and when does that responsibility start?",
+  "gold": [
+   "B3.1.7"
+  ],
+  "tokens_out": 37
+ },
+ {
+  "id": "Z033",
+  "type": "model_written",
+  "query": "Who decides which modifications a car is allowed to have when it's being used to test development tyres or components for the FIA?",
+  "gold": [
+   "B11.4.1"
+  ],
+  "tokens_out": 37
+ },
+ {
+  "id": "Z034",
+  "type": "model_written",
+  "query": "What happens to the engine and tyres if a driver who's already been through scrutineering can't race and the stewards let us swap in someone else?",
+  "gold": [
+   "B1.7.5"
+  ],
+  "tokens_out": 44
+ },
+ {
+  "id": "Z035",
+  "type": "model_written",
+  "query": "When does the restriction on overtaking end after the Safety Car goes back into the pits?",
+  "gold": [
+   "B5.10.9#2"
+  ],
+  "tokens_out": 29
+ },
+ {
+  "id": "Z036",
+  "type": "model_written",
+  "query": "Who can make a driver go for a medical check during a race, and what happens after a crash if the impact light goes off?",
+  "gold": [
+   "B1.1.5"
+  ],
+  "tokens_out": 36
+ },
+ {
+  "id": "Z037",
+  "type": "model_written",
+  "query": "Can a driver pit for a new set of tyres while the safety car is out, or is pitting only allowed when the officials order everyone into the pit lane?",
+  "gold": [
+   "B5.13.3"
+  ],
+  "tokens_out": 49
+ },
+ {
+  "id": "Z038",
+  "type": "model_written",
+  "query": "How do I know which lane in the pit lane is the fast one, and how wide can it be?",
+  "gold": [
+   "APPENDIX B1#1"
+  ],
+  "tokens_out": 29
+ },
+ {
+  "id": "Z039",
+  "type": "model_written",
+  "query": "What happens if a car goes into the pit lane during the formation laps while the safety car is using it?",
+  "gold": [
+   "B5.10.5"
+  ],
+  "tokens_out": 31
+ },
+ {
+  "id": "Z040",
+  "type": "model_written",
+  "query": "If a practice session gets stopped partway through, can it be extended, and what limits apply to the extra time?",
+  "gold": [
+   "B4.2.1"
+  ],
+  "tokens_out": 211
+ },
+ {
+  "id": "Z041",
+  "type": "model_written",
+  "query": "What happens if a car that was pushed off the grid stalls during an extra formation lap, and how is the starting order decided if more than one car is affected?",
+  "gold": [
+   "B5.9.2"
+  ],
+  "tokens_out": 47
+ },
+ {
+  "id": "Z042",
+  "type": "model_written",
+  "query": "How many people working on the cars can a team have at the circuit during a race weekend, and does that limit still apply on race day?",
+  "gold": [
+   "B9.2.1"
+  ],
+  "tokens_out": 38
+ },
+ {
+  "id": "Z043",
+  "type": "model_written",
+  "query": "Could I swap in a different-design front wing, rear wing, rear bodywork, or floor part during the season if it's one that already ran in pre-season testing, qualifying, sprint qualifying, or a TTCS, and how many times can I do that?",
+  "gold": [
+   "B3.5.5"
+  ],
+  "tokens_out": 80
+ },
+ {
+  "id": "Z044",
+  "type": "model_written",
+  "query": "How long after the race director says it's safe to end the safety car period do the lights turn green, and when do they switch off?",
+  "gold": [
+   "B4.1.4#2"
+  ],
+  "tokens_out": 261
+ },
+ {
+  "id": "Z045",
+  "type": "model_written",
+  "query": "What happens to the starting order if qualifying gets cancelled and the stewards agree it can't run?",
+  "gold": [
+   "B2.5.4#1"
+  ],
+  "tokens_out": 33
+ },
+ {
+  "id": "Z046",
+  "type": "model_written",
+  "query": "Can a car that was left stopped on the track during a stoppage still take part when the session restarts, if it wasn't left there because of a breakdown, damage, or to gain an advantage?",
+  "gold": [
+   "B1.8.9"
+  ],
+  "tokens_out": 313
+ },
+ {
+  "id": "Z047",
+  "type": "model_written",
+  "query": "Do teams have to show their cars to the media before the first practice session, and for how long?",
+  "gold": [
+   "B10.1.2#1"
+  ],
+  "tokens_out": 27
+ },
+ {
+  "id": "Z048",
+  "type": "model_written",
+  "query": "Does the time-to-clear-the-start count toward the Championship even if the procedure gets repeated or the time gets cut down a lot?",
+  "gold": [
+   "B5.9.6"
+  ],
+  "tokens_out": 45
+ },
+ {
+  "id": "Z049",
+  "type": "model_written",
+  "query": "When are the team's operational staff and trainees not allowed at the circuit during a race weekend, and how long do those blackout windows last?",
+  "gold": [
+   "B9.5.1"
+  ],
+  "tokens_out": 222
+ },
+ {
+  "id": "Z050",
+  "type": "model_written",
+  "query": "Who besides drivers is allowed on the track or in the pit lane around practice, qualifying, and sprint sessions?",
+  "gold": [
+   "B1.5.4"
+  ],
+  "tokens_out": 334
+ },
+ {
+  "id": "Z051",
+  "type": "model_written",
+  "query": "How long after the practice sessions does qualifying start on the second day, and does it differ between standard and alternative format weekends?",
+  "gold": [
+   "B2.4.1"
+  ],
+  "tokens_out": 39
+ },
+ {
+  "id": "Z052",
+  "type": "model_written",
+  "query": "How long is the first free practice session at an alternative format competition, and when does it happen?",
+  "gold": [
+   "B2.1.2"
+  ],
+  "tokens_out": 27
+ },
+ {
+  "id": "Z053",
+  "type": "model_written",
+  "query": "Under a Virtual Safety Car, can I overtake another car on the track if it has a problem and is clearly slowing down?",
+  "gold": [
+   "B5.12.2"
+  ],
+  "tokens_out": 41
+ },
+ {
+  "id": "Z054",
+  "type": "model_written",
+  "query": "Who has to be named to the FIA, and when, for the stewards and clerk of the course at an event?",
+  "gold": [
+   "B1.3.2"
+  ],
+  "tokens_out": 33
+ },
+ {
+  "id": "Z055",
+  "type": "model_written",
+  "query": "Can a power unit be started or cranked outside of a race weekend, say in the garage, on a car that isn't entered in the competition?",
+  "gold": [
+   "B8.2.9#2"
+  ],
+  "tokens_out": 43
+ },
+ {
+  "id": "Z056",
+  "type": "model_written",
+  "query": "Where does a team have to mount the parc ferm\u00e9 camera, and does it need to stay uncovered during the event?",
+  "gold": [
+   "B3.5.8"
+  ],
+  "tokens_out": 35
+ },
+ {
+  "id": "Z057",
+  "type": "model_written",
+  "query": "Do lap times only count if the car starts and finishes the lap by crossing the timing line on the track?",
+  "gold": [
+   "B2.4.3#3"
+  ],
+  "tokens_out": 205
+ },
+ {
+  "id": "Z058",
+  "type": "model_written",
+  "query": "What do FIA delegates actually do at a race, and what are they supposed to report on?",
+  "gold": [
+   "B1.2.2"
+  ],
+  "tokens_out": 28
+ },
+ {
+  "id": "Z059",
+  "type": "model_written",
+  "query": "How are the grid spots for the race decided for drivers who got knocked out in Q1 and Q2?",
+  "gold": [
+   "B2.4.3#1"
+  ],
+  "tokens_out": 34
+ },
+ {
+  "id": "Z060",
+  "type": "model_written",
+  "query": "Can a driver overtake another car in the pit lane, and is there any situation where a car stopped in its garage area can be passed?",
+  "gold": [
+   "B5.13.2#3"
+  ],
+  "tokens_out": 41
+ },
+ {
+  "id": "Z061",
+  "type": "model_written",
+  "query": "How can I overtake a car behind the Safety Car after the restart if it has broken down or is stuck, and what happens if I pass someone when I shouldn't?",
+  "gold": [
+   "B5.15.3"
+  ],
+  "tokens_out": 52
+ },
+ {
+  "id": "Z062",
+  "type": "model_written",
+  "query": "Which penalty applies to a driver who doesn't get their car moving from the pit lane when the race starts, and what happens if a problem with the start comes up after the safety car has already entered the pit lane?",
+  "gold": [
+   "B5.10.8#2"
+  ],
+  "tokens_out": 64
+ },
+ {
+  "id": "Z063",
+  "type": "model_written",
+  "query": "Can the Technical Delegate force a team to switch to different tyres partway through an event, using whatever tyres the supplier has on site?",
+  "gold": [
+   "B6.2.6"
+  ],
+  "tokens_out": 44
+ },
+ {
+  "id": "Z064",
+  "type": "model_written",
+  "query": "If my engine stalls while I'm serving a stop-and-go in the pit lane and I can't restart it myself, can the mechanics help me get it going right away?",
+  "gold": [
+   "B1.9.6#4"
+  ],
+  "tokens_out": 294
+ },
+ {
+  "id": "Z065",
+  "type": "model_written",
+  "query": "Which meetings at an Alternative Format Competition do drivers have to attend, and when are they held?",
+  "gold": [
+   "B1.4.1"
+  ],
+  "tokens_out": 33
+ },
+ {
+  "id": "Z066",
+  "type": "model_written",
+  "query": "Do I have to arrange access for an FIA observer if they tell me they're coming to one of our events?",
+  "gold": [
+   "B11.1.2"
+  ],
+  "tokens_out": 33
+ },
+ {
+  "id": "Z067",
+  "type": "model_written",
+  "query": "Can we patch or bond a damaged bodywork panel, and are we allowed to swap in a new piece if it can't be fixed?",
+  "gold": [
+   "APPENDIX B2#1"
+  ],
+  "tokens_out": 233
+ },
+ {
+  "id": "Z068",
+  "type": "model_written",
+  "query": "What can the officials do to check whether a car or driver is eligible, and do they have to take it apart to do it?",
+  "gold": [
+   "B3.1.4#1"
+  ],
+  "tokens_out": 35
+ },
+ {
+  "id": "Z069",
+  "type": "model_written",
+  "query": "Do the cars have to pass the static and dynamic crash tests before a team can run them in one of those events?",
+  "gold": [
+   "B11.8.1"
+  ],
+  "tokens_out": 34
+ },
+ {
+  "id": "Z070",
+  "type": "model_written",
+  "query": "If a qualifying session is stopped partway through, do the teams get the lost time back, or can the race director end that part for good when there isn't enough time left for any car to get out and set a lap?",
+  "gold": [
+   "B4.3.1"
+  ],
+  "tokens_out": 293
+ },
+ {
+  "id": "Z071",
+  "type": "model_written",
+  "query": "What kind of helmet and eye protection do crew members need when they work on a car in the pit lane during qualifying?",
+  "gold": [
+   "B1.6.2#2"
+  ],
+  "tokens_out": 297
+ },
+ {
+  "id": "Z072",
+  "type": "model_written",
+  "query": "Is Boost mode allowed if it only stops the driver's power from being cut and never raises it, and can the power reduction be reset in the last sector before the control line?",
+  "gold": [
+   "B7.2.1#5"
+  ],
+  "tokens_out": 313
+ },
+ {
+  "id": "Z073",
+  "type": "model_written",
+  "query": "What happens to the cars and the timing if the pit exit has to be shut before everyone is back in the pit lane for safety reasons?",
+  "gold": [
+   "B5.14.2#2"
+  ],
+  "tokens_out": 43
+ },
+ {
+  "id": "Z074",
+  "type": "model_written",
+  "query": "Once my car has left the pit lane for the first time in qualifying, when does it count as being locked away until the race starts, and what happens if it never leaves the pit lane?",
+  "gold": [
+   "B3.5.1"
+  ],
+  "tokens_out": 54
+ },
+ {
+  "id": "Z075",
+  "type": "model_written",
+  "query": "Are we allowed to use engine covers, spare wing covers, or things like spare floors, fuel rigs or tool trolleys to block the view while we're working in the garage or pit lane?",
+  "gold": [
+   "B3.3.2"
+  ],
+  "tokens_out": 61
+ },
+ {
+  "id": "Z076",
+  "type": "model_written",
+  "query": "What happens to the timed session's finish point if the end-of-session signal is given early or delayed?",
+  "gold": [
+   "B5.16.2"
+  ],
+  "tokens_out": 31
+ },
+ {
+  "id": "Z077",
+  "type": "model_written",
+  "query": "What tyres do I have to run when the Safety Car is out and we're starting the formation lap behind it or restarting under the TTCS, and what happens if I change to a different spec while it's still on track?",
+  "gold": [
+   "B6.3.7"
+  ],
+  "tokens_out": 63
+ },
+ {
+  "id": "Z078",
+  "type": "model_written",
+  "query": "If a team replaces the main safety structure of its car after the first inspection, when can that car run again at a standard race weekend?",
+  "gold": [
+   "B3.1.3"
+  ],
+  "tokens_out": 262
+ },
+ {
+  "id": "Z079",
+  "type": "model_written",
+  "query": "If a car still doesn't have all its wheels on when the five-minute board goes up, what penalty does the driver get?",
+  "gold": [
+   "B5.5.3"
+  ],
+  "tokens_out": 191
+ },
+ {
+  "id": "Z080",
+  "type": "model_written",
+  "query": "When does a race weekend officially start and finish for the purposes of protests and technical checks?",
+  "gold": [
+   "B1.1.1"
+  ],
+  "tokens_out": 155
+ },
+ {
+  "id": "Z081",
+  "type": "model_written",
+  "query": "What do I have to do with my intermediate tyres if the first practice session, second practice session, or third practice session is declared wet?",
+  "gold": [
+   "B6.3.8#2"
+  ],
+  "tokens_out": 40
+ },
+ {
+  "id": "Z082",
+  "type": "model_written",
+  "query": "What do I have to do for media after the race if I'm not in the top three and my team hasn't set up a written media session?",
+  "gold": [
+   "B10.1.4#2"
+  ],
+  "tokens_out": 36
+ },
+ {
+  "id": "Z083",
+  "type": "model_written",
+  "query": "Could a team use a rookie driver in FP1 or FP2 who has done at most two Championship races, and what do they have to do to make that work?",
+  "gold": [
+   "B1.7.3"
+  ],
+  "tokens_out": 46
+ },
+ {
+  "id": "Z084",
+  "type": "model_written",
+  "query": "Which car at the post-season test has to run the current-year or previous-year parts, and can a young driver use it?",
+  "gold": [
+   "B11.2.7#2"
+  ],
+  "tokens_out": 35
+ },
+ {
+  "id": "Z085",
+  "type": "model_written",
+  "query": "How many sets of wet-weather tyres does each driver get for a competition?",
+  "gold": [
+   "B6.2.4"
+  ],
+  "tokens_out": 405
+ },
+ {
+  "id": "Z086",
+  "type": "model_written",
+  "query": "What happens to the start lights and the message to drivers if the Race Director delays the start while the grid procedure is still going on and the formation lap hasn't begun?",
+  "gold": [
+   "B5.4.1"
+  ],
+  "tokens_out": 51
+ },
+ {
+  "id": "Z087",
+  "type": "model_written",
+  "query": "Who has the final say on stopping a session or the race if conditions are unsafe, and who handles the restart?",
+  "gold": [
+   "B1.3.3"
+  ],
+  "tokens_out": 35
+ },
+ {
+  "id": "Z088",
+  "type": "model_written",
+  "query": "What happens if a problem comes up before the start that isn't serious enough to cancel it, and the race director decides to send everyone around one more formation lap?",
+  "gold": [
+   "B5.9.1"
+  ],
+  "tokens_out": 48
+ },
+ {
+  "id": "Z089",
+  "type": "model_written",
+  "query": "How many engines, turbochargers and exhaust sets can each driver use in a championship?",
+  "gold": [
+   "B8.2.2#1"
+  ],
+  "tokens_out": 29
+ },
+ {
+  "id": "Z090",
+  "type": "model_written",
+  "query": "If my driver is further than one second behind the car ahead when they pass the timing point on a short track section, can they still use the overtaking aid at the activation zone?",
+  "gold": [
+   "B7.2.3"
+  ],
+  "tokens_out": 452
+ },
+ {
+  "id": "Z091",
+  "type": "model_written",
+  "query": "Who has to go to the podium after a race, and what do they have to do afterward?",
+  "gold": [
+   "B10.2.1"
+  ],
+  "tokens_out": 26
+ },
+ {
+  "id": "Z092",
+  "type": "model_written",
+  "query": "Can we still change our staff list with the FIA once the restricted period has started?",
+  "gold": [
+   "B9.4.1"
+  ],
+  "tokens_out": 182
+ },
+ {
+  "id": "Z093",
+  "type": "model_written",
+  "query": "How soon before the restart do the cars that were between the Safety Car and the leader get to leave the pit lane, and what do they have to do?",
+  "gold": [
+   "B5.15.2#2"
+  ],
+  "tokens_out": 44
+ },
+ {
+  "id": "Z094",
+  "type": "model_written",
+  "query": "If I'm starting from the pit lane, when am I allowed to leave and join the formation lap, and what order do we go out in?",
+  "gold": [
+   "B5.6.1"
+  ],
+  "tokens_out": 312
+ },
+ {
+  "id": "Z095",
+  "type": "model_written",
+  "query": "Can I put a cover over my car in the pit lane or on the grid when it's raining?",
+  "gold": [
+   "B3.3.3"
+  ],
+  "tokens_out": 29
+ },
+ {
+  "id": "Z096",
+  "type": "model_written",
+  "query": "What rear light do cars need if the driver doesn't have a Super Licence?",
+  "gold": [
+   "B11.2.3"
+  ],
+  "tokens_out": 26
+ },
+ {
+  "id": "Z097",
+  "type": "model_written",
+  "query": "What do the driver's adjustable wing settings have to be for the car to count as fully activated, and when does it count as only partially activated?",
+  "gold": [
+   "B7.1.1#1"
+  ],
+  "tokens_out": 42
+ },
+ {
+  "id": "Z098",
+  "type": "model_written",
+  "query": "Do I have to do press or fan events the day before the race weekend, and how long do they last?",
+  "gold": [
+   "B10.1.1#1"
+  ],
+  "tokens_out": 29
+ },
+ {
+  "id": "Z099",
+  "type": "model_written",
+  "query": "Who needs to agree before a team can fit extra sensors to measure tyre condition or performance on the car, and what happens to the data afterward?",
+  "gold": [
+   "B6.6.6"
+  ],
+  "tokens_out": 46
+ },
+ {
+  "id": "Z100",
+  "type": "model_written",
+  "query": "What do I have to do if my car gets picked for extra checks after qualifying?",
+  "gold": [
+   "B3.5.6"
+  ],
+  "tokens_out": 26
+ },
+ {
+  "id": "Z101",
+  "type": "model_written",
+  "query": "Which older parts can a team use on its test cars before the first race of the season?",
+  "gold": [
+   "B11.4.10#3"
+  ],
+  "tokens_out": 24
+ },
+ {
+  "id": "Z102",
+  "type": "model_written",
+  "query": "How long do I have to wait before my mechanics can touch the car if it's stopped in the pit lane for a stop-and-go penalty and the engine cuts out?",
+  "gold": [
+   "B1.9.6#3"
+  ],
+  "tokens_out": 53
+ },
+ {
+  "id": "Z103",
+  "type": "model_written",
+  "query": "How does the race director bring in the VSC, and how do drivers and the marshals' light panels find out it's been deployed?",
+  "gold": [
+   "B5.12.1"
+  ],
+  "tokens_out": 39
+ },
+ {
+  "id": "Z104",
+  "type": "model_written",
+  "query": "What do we need to set up on the podium for the winners' ceremony, and where should the trophies go?",
+  "gold": [
+   "APPENDIX B4#1"
+  ],
+  "tokens_out": 32
+ },
+ {
+  "id": "Z105",
+  "type": "model_written",
+  "query": "When are we allowed to run cars for tyre checks, and what are the time and location limits?",
+  "gold": [
+   "B11.2.1"
+  ],
+  "tokens_out": 345
+ },
+ {
+  "id": "Z106",
+  "type": "model_written",
+  "query": "How many events per season can the reduced energy-recovery rule be used, and how many of those can have an energy limit below 5MJ?",
+  "gold": [
+   "B7.2.1#3"
+  ],
+  "tokens_out": 237
+ },
+ {
+  "id": "Z107",
+  "type": "model_written",
+  "query": "Can a team add or remove anything from the car once it's been picked for weighing or is in the middle of the weighing process?",
+  "gold": [
+   "B3.2.4"
+  ],
+  "tokens_out": 38
+ },
+ {
+  "id": "Z108",
+  "type": "model_written",
+  "query": "Before a sprint, how many laps can each driver do around the track, and how long is the pit exit open?",
+  "gold": [
+   "B5.2.2"
+  ],
+  "tokens_out": 250
+ },
+ {
+  "id": "Z109",
+  "type": "model_written",
+  "query": "Can the race winner celebrate on track before heading to the secure holding area, and what conditions apply?",
+  "gold": [
+   "B5.16.3"
+  ],
+  "tokens_out": 380
+ },
+ {
+  "id": "Z110",
+  "type": "model_written",
+  "query": "Do I have to go back into the pit lane after a standing start restart if my car was in the garage or had been moved out of the fast lane during the suspension, and when can I rejoin the timing-controlled start?",
+  "gold": [
+   "B5.15.4#2"
+  ],
+  "tokens_out": 65
+ },
+ {
+  "id": "Z111",
+  "type": "model_written",
+  "query": "How big a gap can there be between the cars behind the Safety Car when visibility is poor, and who decides that?",
+  "gold": [
+   "B5.10.2"
+  ],
+  "tokens_out": 36
+ },
+ {
+  "id": "Z112",
+  "type": "model_written",
+  "query": "What happens to a driver who gets knocked out in the first sprint qualifying session with a lap more than 107% of the fastest time, and the track wasn't wet?",
+  "gold": [
+   "B2.2.3#2"
+  ],
+  "tokens_out": 53
+ },
+ {
+  "id": "Z113",
+  "type": "model_written",
+  "query": "Can a driver stay sitting in the car while it's being refuelled, as long as the engine is off?",
+  "gold": [
+   "B1.5.9"
+  ],
+  "tokens_out": 33
+ },
+ {
+  "id": "Z114",
+  "type": "model_written",
+  "query": "If my car starts from the pit lane, when can it join the formation laps, and when does it have to head back into the pits?",
+  "gold": [
+   "B5.10.4"
+  ],
+  "tokens_out": 254
+ },
+ {
+  "id": "Z115",
+  "type": "model_written",
+  "query": "When a rolling start is called behind the safety car, when are drivers allowed to overtake again?",
+  "gold": [
+   "B5.10.9#1"
+  ],
+  "tokens_out": 274
+ },
+ {
+  "id": "Z116",
+  "type": "model_written",
+  "query": "How much warning do drivers get before the start of a TTCS, and what signals mark it?",
+  "gold": [
+   "B5.5.1"
+  ],
+  "tokens_out": 29
+ },
+ {
+  "id": "Z117",
+  "type": "model_written",
+  "query": "How many stewards does the FIA appoint for a race, and who decides which one is chair?",
+  "gold": [
+   "B1.3.1"
+  ],
+  "tokens_out": 29
+ },
+ {
+  "id": "Z118",
+  "type": "model_written",
+  "query": "How many sets of intermediate tyres do I have to hand back after a wet practice session, and by when?",
+  "gold": [
+   "B6.3.10#2"
+  ],
+  "tokens_out": 33
+ },
+ {
+  "id": "Z119",
+  "type": "model_written",
+  "query": "How many laps does a race need to cover, and is Monaco's race length different?",
+  "gold": [
+   "B2.5.2"
+  ],
+  "tokens_out": 217
+ },
+ {
+  "id": "Z120",
+  "type": "model_written",
+  "query": "If the race is suspended and restarted, do cars that were in their garage or had moved out of the fast lane have to go back into the pit lane first, and can they only rejoin once the pit exit reopens?",
+  "gold": [
+   "B5.15.5#2"
+  ],
+  "tokens_out": 347
+ },
+ {
+  "id": "Z121",
+  "type": "model_written",
+  "query": "How many laps does a Sprint run, and does that change if the race starts behind the Safety Car?",
+  "gold": [
+   "B2.3.2"
+  ],
+  "tokens_out": 32
+ },
+ {
+  "id": "Z122",
+  "type": "model_written",
+  "query": "Do the white lines count as part of the track, and are the kerbs included too?",
+  "gold": [
+   "B1.8.6"
+  ],
+  "tokens_out": 25
+ },
+ {
+  "id": "Z123",
+  "type": "model_written",
+  "query": "How do we restart the race from a standing start when the Race Director says it's safe, and what changes for the cars once that happens?",
+  "gold": [
+   "B5.15.4#1"
+  ],
+  "tokens_out": 39
+ },
+ {
+  "id": "Z124",
+  "type": "model_written",
+  "query": "How far apart can cars be when they're queued behind the safety car, and does that limit change when visibility is poor?",
+  "gold": [
+   "B5.15.2#4"
+  ],
+  "tokens_out": 196
+ },
+ {
+  "id": "Z125",
+  "type": "model_written",
+  "query": "If a driver has a drive-through or stop-and-go penalty, can they still serve it while the safety car is out or a virtual safety car is in effect?",
+  "gold": [
+   "B1.9.6#2"
+  ],
+  "tokens_out": 265
+ },
+ {
+  "id": "Z126",
+  "type": "model_written",
+  "query": "Can a team fit parts or software that don't meet the usual rules for the TPC if they have a good reason, like cost, safety, or track conditions, and what do they need to do to ask for that?",
+  "gold": [
+   "B11.3.3"
+  ],
+  "tokens_out": 61
+ },
+ {
+  "id": "Z127",
+  "type": "model_written",
+  "query": "What should a driver do with the car, and where should they go, if they have to stop and leave it on the circuit?",
+  "gold": [
+   "B1.8.8"
+  ],
+  "tokens_out": 34
+ },
+ {
+  "id": "Z128",
+  "type": "model_written",
+  "query": "How long does a team have to receive a decision about one of its drivers, and do they have to confirm they got it?",
+  "gold": [
+   "B1.1.2"
+  ],
+  "tokens_out": 34
+ },
+ {
+  "id": "Z129",
+  "type": "model_written",
+  "query": "What happens to a driver who caused an aborted start and can get the car going again, and where do they have to start from?",
+  "gold": [
+   "B5.8.2"
+  ],
+  "tokens_out": 34
+ },
+ {
+  "id": "Z130",
+  "type": "model_written",
+  "query": "How many cars can our team use for testing per day, and what hours does a testing day cover?",
+  "gold": [
+   "B11.3.4"
+  ],
+  "tokens_out": 28
+ },
+ {
+  "id": "Z131",
+  "type": "model_written",
+  "query": "Once the leader is behind the Safety Car, when does the Safety Car actually head back to the pits?",
+  "gold": [
+   "B5.13.5"
+  ],
+  "tokens_out": 34
+ },
+ {
+  "id": "Z132",
+  "type": "model_written",
+  "query": "Do the pit lane and track safety rules stay the same across practice, qualifying, sprint qualifying, and sprint sessions as they are for the race?",
+  "gold": [
+   "B1.5.1"
+  ],
+  "tokens_out": 50
+ },
+ {
+  "id": "Z133",
+  "type": "model_written",
+  "query": "What's the deadline for a team to hand in its list of new aero and bodywork parts before first practice, and when does the media get to see that list?",
+  "gold": [
+   "B10.1.1#2"
+  ],
+  "tokens_out": 44
+ },
+ {
+  "id": "Z134",
+  "type": "model_written",
+  "query": "What do the top three finishers have to wear during the podium ceremony and post-race interviews?",
+  "gold": [
+   "B10.2.2"
+  ],
+  "tokens_out": 30
+ },
+ {
+  "id": "Z135",
+  "type": "model_written",
+  "query": "If a car was in its garage when the restart was paused, where does it line up when the restart resumes?",
+  "gold": [
+   "B5.15.1#2"
+  ],
+  "tokens_out": 218
+ },
+ {
+  "id": "Z136",
+  "type": "model_written",
+  "query": "Who can bring an on-track incident or a suspected rule breach to the stewards' attention?",
+  "gold": [
+   "B1.9.1"
+  ],
+  "tokens_out": 31
+ },
+ {
+  "id": "Z137",
+  "type": "model_written",
+  "query": "Can we swap out the small parts on the car without getting penalized, as long as we don't break any seals?",
+  "gold": [
+   "B8.2.11"
+  ],
+  "tokens_out": 33
+ },
+ {
+  "id": "Z138",
+  "type": "model_written",
+  "query": "Do I have to pull my car off the track straight away if it's badly damaged or has a major fault that stops it getting back to the pits?",
+  "gold": [
+   "B1.8.7"
+  ],
+  "tokens_out": 43
+ },
+ {
+  "id": "Z139",
+  "type": "model_written",
+  "query": "Do we have to tell the other teams in advance about any parts that get swapped out while the cars are under parc ferm\u00e9, and when does that list need to go out?",
+  "gold": [
+   "B3.5.9"
+  ],
+  "tokens_out": 48
+ },
+ {
+  "id": "Z140",
+  "type": "model_written",
+  "query": "How many days of tyre testing can the FIA organise each year, and who is allowed to take part in them?",
+  "gold": [
+   "B11.2.7#3"
+  ],
+  "tokens_out": 33
+ },
+ {
+  "id": "Z141",
+  "type": "model_written",
+  "query": "How do drivers get weighed after the final qualifying session, and what should they avoid doing before they're weighed?",
+  "gold": [
+   "B3.2.1#2"
+  ],
+  "tokens_out": 36
+ },
+ {
+  "id": "Z142",
+  "type": "model_written",
+  "query": "What do the lights at the end of the pit lane tell drivers about when they can leave the pit lane, and what does the blue flag or flashing blue light warn them about?",
+  "gold": [
+   "B1.6.3#2"
+  ],
+  "tokens_out": 53
+ },
+ {
+  "id": "Z143",
+  "type": "model_written",
+  "query": "Our car is still in the pit lane when the exit closes after the warm-up laps. Can we still start from the end of the pit lane if it got there under its own power?",
+  "gold": [
+   "B5.2.5"
+  ],
+  "tokens_out": 51
+ },
+ {
+  "id": "Z144",
+  "type": "model_written",
+  "query": "Are under-16s allowed in the pit lane around practice, qualifying, and sprint qualifying sessions, and how long before and after those sessions is it off-limits?",
+  "gold": [
+   "B1.6.2#3"
+  ],
+  "tokens_out": 271
+ },
+ {
+  "id": "Z145",
+  "type": "model_written",
+  "query": "How many cars can a team have available at once during an event, and when can it have a third one?",
+  "gold": [
+   "B8.1.1"
+  ],
+  "tokens_out": 26
+ },
+ {
+  "id": "Z146",
+  "type": "model_written",
+  "query": "How do you decide who wins a race, and what happens to a car that finishes far behind the leader?",
+  "gold": [
+   "B2.5.5"
+  ],
+  "tokens_out": 31
+ },
+ {
+  "id": "Z147",
+  "type": "model_written",
+  "query": "If a supplier's engineer runs one of our older cars on track on our behalf, outside a race, does that still count as an old-car test session?",
+  "gold": [
+   "APPENDIX B1#5"
+  ],
+  "tokens_out": 313
+ },
+ {
+  "id": "Z148",
+  "type": "model_written",
+  "query": "When does a set of tyres count as used if they were fitted in the pit lane or on the grid?",
+  "gold": [
+   "B6.3.2"
+  ],
+  "tokens_out": 31
+ },
+ {
+  "id": "Z149",
+  "type": "model_written",
+  "query": "How does the Safety Car get into position at the front of the grid before the race starts, and when does it move?",
+  "gold": [
+   "B5.2.1"
+  ],
+  "tokens_out": 32
+ },
+ {
+  "id": "Z150",
+  "type": "model_written",
+  "query": "How do the stewards penalise a driver who stops for no good reason on track or holds up another driver during a long-track championship event?",
+  "gold": [
+   "B4.1.1"
+  ],
+  "tokens_out": 40
+ }
+]

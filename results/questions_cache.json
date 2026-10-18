@@ -1,0 +1,2702 @@
+{
+ "56cb839ce8c4e573080d76c492c52759f555be862830c1e9197fcb4fcc843623": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Under what circumstances can the FIA require or allow a team to swap out a part of the sporting power unit control components?",
+  "usage": {
+   "input_tokens": 181,
+   "output_tokens": 37,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "7b31aca99f09362f8aa1ab2e1d76841c598153e9072540dbebb577e5124cfe94": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Could you tell me what I'm supposed to do with my speed and overtaking when the VSC is on, especially if I'm coming into the pits or leaving them?",
+  "usage": {
+   "input_tokens": 624,
+   "output_tokens": 52,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "847aa4a8c05954d49f03c17420801d078218cc33c6fd3aa21bbabdaf6cedb8b8": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What punishments can a team or driver get for breaking the rules, such as being dropped down the starting grid or thrown out of the results?",
+  "usage": {
+   "input_tokens": 204,
+   "output_tokens": 247,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 205
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "fb6aea5e5fd86a0379153bb472fbde634bc300b2ad5d2f05caac7a4dba211293": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How long is the gap between the first two free practice sessions, and when does the third one start relative to the second?",
+  "usage": {
+   "input_tokens": 468,
+   "output_tokens": 32,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "b1b4c4f53ba68428d4e4dd766c5f5437e246450cbae666b5bebbdb21ffa44be3": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If my mechanic is still touching my car on the grid after the 15-second signal, what do I have to do, and what happens if I don't?",
+  "usage": {
+   "input_tokens": 551,
+   "output_tokens": 273,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 230
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "4bc84fde60fe2d6e7e98171a9117f530769b4f05421f09310ec49f5ba632d4b3": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How many extra sets of dry-weather test tyres does each driver get at a Standard Format Competition where ICTT is scheduled?",
+  "usage": {
+   "input_tokens": 197,
+   "output_tokens": 44,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "7ba2f13ddf8cf31f567bc4cd6e49c6aa49274b15f77b2b22283f955c70128b1d": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Once qualifying for a sprint event is over, how long do teams have to cover their cars and get them ready for seals, and when can the seals come off before the sprint starts?",
+  "usage": {
+   "input_tokens": 398,
+   "output_tokens": 54,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "99d980639d48b44e1c8844217fe25825e0521b8df2bcad02d8d6839f7060ce41": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Who is allowed to give instructions to competitors during checks and scrutineering, and who looks after the parc ferm\u00e9?",
+  "usage": {
+   "input_tokens": 171,
+   "output_tokens": 39,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "6604906af0999768c6fdb23eee1606f1563023d43389eb31f9d408f5c10a5915": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How do we get the top three finishers off the track and to the podium, and who makes sure they don't get held up in the parc ferm\u00e9 on the way?",
+  "usage": {
+   "input_tokens": 622,
+   "output_tokens": 44,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "eee4ff0c2839438927ee74a4d98ac352e5adaff4b537e60626b578096fb24d21": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What do drivers see or get told if the track is too unsafe to start on time, and does the signal differ depending on whether wet-weather tyres are required?",
+  "usage": {
+   "input_tokens": 476,
+   "output_tokens": 48,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "d8eb9ddd0e976f500535dd1572ea618a3ac47b592aa55860b8e431e12811bcaa": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What do teams have to do for media at each race weekend, and when does it have to happen after the second practice session?",
+  "usage": {
+   "input_tokens": 591,
+   "output_tokens": 33,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "cdeabe17f3d422d93ba571b15d223e76fdd7cb6f5d98096340803d89a80554cf": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "When are team staff who work on the race cars not allowed to be inside the circuit grounds?",
+  "usage": {
+   "input_tokens": 651,
+   "output_tokens": 263,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 233
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9602d6b3a0a22385f112b2d2c1197d2e72eaf7b158e05a1aa9b2c2765f0a8dea": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can my team swap out a broken part during a tyre test, or do we have to keep the car exactly as it is?",
+  "usage": {
+   "input_tokens": 347,
+   "output_tokens": 36,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "511884d8ff1728dab00c78ec2a659cb2c5a068cc0e4194b6c536a70e327a54f1": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How long do teams have to cover and seal their cars after qualifying ends, and when can the seals come off before the race?",
+  "usage": {
+   "input_tokens": 377,
+   "output_tokens": 37,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9a615d66b76413a19fe7468a1586c8ee2a556895e4897d73e25dc063cc44fb61": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What happens to the finish flag if the Pit Lane is being used when the leading car crosses the line?\n\nHmm, let me make it sound like everyday speech instead:\n\nWhen does the race officially end and the chequered flag come out?",
+  "usage": {
+   "input_tokens": 340,
+   "output_tokens": 72,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "87e666cb51cb9f0a411feb72b873eefed86a70aa5088e49ec0cb00c05f3d8470": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "When the scrutineers check the cars during a race weekend, do the stewards publish the exact measurements, or only report when a car breaks the rules?",
+  "usage": {
+   "input_tokens": 181,
+   "output_tokens": 47,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "bff4e131a2c79c624e16d971049666766a1e5c522822ee2eb027459419dd97d8": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How far in advance do teams have to be told about any limits on how much battery power the car can use, or how much energy it can regain on a lap?",
+  "usage": {
+   "input_tokens": 622,
+   "output_tokens": 242,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 199
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "88b74dc0bc16e7d434f321d15ffddec3c87d920765b6054b37231efa2926253a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How many team members are allowed into the parc ferm\u00e9 area per car, and what are they allowed to do there?",
+  "usage": {
+   "input_tokens": 214,
+   "output_tokens": 32,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a2d2d33cf29400e25265f02e74b8ab75722ea6ee029a8fd8dbaa662eb7bf8653": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can a team work on its car or leave equipment in the faster lane of the pit lane?",
+  "usage": {
+   "input_tokens": 536,
+   "output_tokens": 235,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 206
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "42a2be3c7dad0731199345fcf4da59b49e140ed24c77c1f96cc0fb4b33d66d7a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What camera do teams have to set up above their pit box, and does it need to stay uncovered while the car is being worked on?",
+  "usage": {
+   "input_tokens": 384,
+   "output_tokens": 38,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "141abc16a6b5d7c4889f9e3c4e32b45a8b11321498ae53259169ca78fc11814e": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What's the rule for when cars are allowed to pass each other behind the Safety Car, and when does that restriction end?",
+  "usage": {
+   "input_tokens": 616,
+   "output_tokens": 38,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "6602ac14d5ad15e3f00d579422baa38ac2fcb8629f78ff47b7d9954392687f45": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If a team pulls its car out after the deadline, is its starting spot left empty?",
+  "usage": {
+   "input_tokens": 661,
+   "output_tokens": 442,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 415
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "c5df69581c23c74b9332ec7ae9fcbc4950b2d055d38adcc9fc39b459edee229b": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If a sprint runs past one hour without reaching its planned distance, when does the leader get the finish signal, and does a stoppage change that?",
+  "usage": {
+   "input_tokens": 401,
+   "output_tokens": 296,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 251
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9c57110c7102e13f9f88cfed0795d50491d72746f1c45c51fa504ef8ccaa703a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Does a car that can't drive itself to the grid after its warm-up lap get to start from the grid?",
+  "usage": {
+   "input_tokens": 158,
+   "output_tokens": 33,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "eddace3c2082a2e0d30163b5da5649dc4c3649078d5f054825d68bc27d777357": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What happens to a driver if their car leaves the pit box or garage in an unsafe condition during a race?",
+  "usage": {
+   "input_tokens": 682,
+   "output_tokens": 34,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "fa8cc953aa1c41843184afddbc5df13fbfc4fac133296e97eab96490d751bd14": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can a driver who is racing in this season's championship take part in a test at a circuit hosting one of its races if the test is within 60 days before that race?",
+  "usage": {
+   "input_tokens": 659,
+   "output_tokens": 230,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 183
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "ca9252e3b8378e34f7b36cdf680119d7024d7267eb7dfe50799534d40a3271ed": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Where do the cars go and in what order if the start is halted after the formation laps behind the Safety Car?",
+  "usage": {
+   "input_tokens": 537,
+   "output_tokens": 34,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "652681b4a799e6d4e8378ac6cb14b65ea934eeb127c4bc1cbbec89cf2280f0be": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can we top up or drain fuel on the car once it's left the pit lane for the warm-up laps, and until when is that not allowed?",
+  "usage": {
+   "input_tokens": 195,
+   "output_tokens": 44,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "6e44638ca2232ba359aada5124135a67329afeeec6d7593c2332de7bb1da6b83": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Under what circumstances can a team swap out its car for a new one, and does the replacement have to match the original?",
+  "usage": {
+   "input_tokens": 491,
+   "output_tokens": 34,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "35ed0c28e346452bf688d53a1f8152d75f239c70ba022ea04533f995a61af0df": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can a driver move the adjustable bodywork whenever they like, or only once the car says it's allowed, and can they only partly open it when the track is slippery?",
+  "usage": {
+   "input_tokens": 240,
+   "output_tokens": 51,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "5c8bc0d3190e8eed374145b97b9357dc0083636491e4fc02ff36d15192db0be2": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Does a driver have to join at least one of the shorter sessions before they're allowed to start a full test session?",
+  "usage": {
+   "input_tokens": 162,
+   "output_tokens": 208,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 174
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "09f2ea01e7802d19f36be2d9304125b7becf39fea2756b96b89bfb1cc2d108c6": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What do teams have to hand over to the Technical Delegate for scrutineering, and when does that responsibility start?",
+  "usage": {
+   "input_tokens": 248,
+   "output_tokens": 37,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "0efb5ca852baef1aa7d4ee99635ff83577e07ea97e8f561eecadd83bd87a3d3e": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Who decides which modifications a car is allowed to have when it's being used to test development tyres or components for the FIA?",
+  "usage": {
+   "input_tokens": 176,
+   "output_tokens": 37,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "b32a4f02b3850e97858141adc0ae9931808df0410d293caef2c55e7bbaa4e48f": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What happens to the engine and tyres if a driver who's already been through scrutineering can't race and the stewards let us swap in someone else?",
+  "usage": {
+   "input_tokens": 206,
+   "output_tokens": 44,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "31da8fb8e341824d16ae8ea8b4e64eb06baf819cd7150ef18b45650584b7dfb3": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "When does the restriction on overtaking end after the Safety Car goes back into the pits?",
+  "usage": {
+   "input_tokens": 346,
+   "output_tokens": 29,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "cba47663003157b3dfd5e52c20b9eca310402501d496fa46d210994b8753f589": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Who can make a driver go for a medical check during a race, and what happens after a crash if the impact light goes off?",
+  "usage": {
+   "input_tokens": 265,
+   "output_tokens": 36,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "96a56259c9f0f9d78af52d5fe20f583f6492afdd483c63832ea01ca4ac3fbeaa": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can a driver pit for a new set of tyres while the safety car is out, or is pitting only allowed when the officials order everyone into the pit lane?",
+  "usage": {
+   "input_tokens": 456,
+   "output_tokens": 49,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "681a838c1eb51dccac578b96ceafbe36838de442fd7011fb5721beca35c73dcc": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How do I know which lane in the pit lane is the fast one, and how wide can it be?",
+  "usage": {
+   "input_tokens": 655,
+   "output_tokens": 29,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "4e76b31d451ce1d0d683023939c424d40712385b58bb8aa06d8ec624f0380533": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What happens if a car goes into the pit lane during the formation laps while the safety car is using it?",
+  "usage": {
+   "input_tokens": 243,
+   "output_tokens": 31,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "f54fadef039ea2190ec57848be6e8b6d850c590a138c6fc1ffe8d99f0a6b5553": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If a practice session gets stopped partway through, can it be extended, and what limits apply to the extra time?",
+  "usage": {
+   "input_tokens": 227,
+   "output_tokens": 211,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 177
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "5c52d6edd74340eb338df395511ad1d3d5775d58679dd1231ed50d2e0b53b493": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What happens if a car that was pushed off the grid stalls during an extra formation lap, and how is the starting order decided if more than one car is affected?",
+  "usage": {
+   "input_tokens": 237,
+   "output_tokens": 47,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "1a92aad6cf68ddce94e06fbe53daa0f0fd03e49edd15f956c954de268db6a86b": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How many people working on the cars can a team have at the circuit during a race weekend, and does that limit still apply on race day?",
+  "usage": {
+   "input_tokens": 284,
+   "output_tokens": 38,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "54d4d4e83c227668dfe4db0555054351496fa6d41f1fa95a88f8c83caadce6d1": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Could I swap in a different-design front wing, rear wing, rear bodywork, or floor part during the season if it's one that already ran in pre-season testing, qualifying, sprint qualifying, or a TTCS, and how many times can I do that?",
+  "usage": {
+   "input_tokens": 258,
+   "output_tokens": 80,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a47fbd46a3698ea677161fa3853ba559426e86de58e000e001ec3a37867a9693": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How long after the race director says it's safe to end the safety car period do the lights turn green, and when do they switch off?",
+  "usage": {
+   "input_tokens": 300,
+   "output_tokens": 261,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 225
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "ba26757bb04df483412a20a4e9aea6dc4e05f3c4370fd521533cd24389bfa352": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What happens to the starting order if qualifying gets cancelled and the stewards agree it can't run?",
+  "usage": {
+   "input_tokens": 666,
+   "output_tokens": 33,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a05fc74896ecb4261ca12a56683883af0b11e0e23f8bf096013fbc5bea038be7": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can a car that was left stopped on the track during a stoppage still take part when the session restarts, if it wasn't left there because of a breakdown, damage, or to gain an advantage?",
+  "usage": {
+   "input_tokens": 252,
+   "output_tokens": 313,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 254
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "cd3e3f4548c68afc4f207cb9c24c347274b670a4d71d7fcea356685502297bde": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Do teams have to show their cars to the media before the first practice session, and for how long?",
+  "usage": {
+   "input_tokens": 599,
+   "output_tokens": 27,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "64a7263dc0dd9f98b1a6e18d4f0020fd4f6562496112ceb12c167131c9240746": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Does the time-to-clear-the-start count toward the Championship even if the procedure gets repeated or the time gets cut down a lot?",
+  "usage": {
+   "input_tokens": 168,
+   "output_tokens": 45,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a23207444434881d35ac2a5de5814bfeb6d5d322a7087c71c37cbc548ca73a4e": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "When are the team's operational staff and trainees not allowed at the circuit during a race weekend, and how long do those blackout windows last?",
+  "usage": {
+   "input_tokens": 617,
+   "output_tokens": 222,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 179
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "787377f797c820148a24896da298c1f1652e7087dab8ecd0ccadd1a8fdf465eb": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Who besides drivers is allowed on the track or in the pit lane around practice, qualifying, and sprint sessions?",
+  "usage": {
+   "input_tokens": 395,
+   "output_tokens": 334,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 294
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "8ef888d6f58f755cde8b3f04f7e03f2d89bb7be01d9d1346712c71c3713130b7": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How long after the practice sessions does qualifying start on the second day, and does it differ between standard and alternative format weekends?",
+  "usage": {
+   "input_tokens": 259,
+   "output_tokens": 39,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "cd593b8726b8d6c60bfff9e45248361500ea9906808c51eefa344478876ffb86": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How long is the first free practice session at an alternative format competition, and when does it happen?",
+  "usage": {
+   "input_tokens": 183,
+   "output_tokens": 27,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "c3ed8b48e7d6181a67a19f4f6562e98682c071cd7d9a70953294931f13e9ebf5": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Under a Virtual Safety Car, can I overtake another car on the track if it has a problem and is clearly slowing down?",
+  "usage": {
+   "input_tokens": 642,
+   "output_tokens": 41,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "317922d83538f786d0936cf62bd868d7fb5cb1d582a98e8ac01d10551959c2e4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Who has to be named to the FIA, and when, for the stewards and clerk of the course at an event?",
+  "usage": {
+   "input_tokens": 190,
+   "output_tokens": 33,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "cc98aaa54739a02d3275022095a2bd121d863d1197828e3ca84196e16798df0b": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can a power unit be started or cranked outside of a race weekend, say in the garage, on a car that isn't entered in the competition?",
+  "usage": {
+   "input_tokens": 340,
+   "output_tokens": 43,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "5094061abc0ee0be41983003df3ce72ed663adda239297f88958565c0542bcc9": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Where does a team have to mount the parc ferm\u00e9 camera, and does it need to stay uncovered during the event?",
+  "usage": {
+   "input_tokens": 319,
+   "output_tokens": 35,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "5b17f8dcd67dba009973c3266dc990029de802fdb5f5e8e561a863eddb8f261a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Do lap times only count if the car starts and finishes the lap by crossing the timing line on the track?",
+  "usage": {
+   "input_tokens": 339,
+   "output_tokens": 205,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 172
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "f0296436bcf5b59ab00902b1d526bf8586256a667c3ce611477143d75d44e59a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What do FIA delegates actually do at a race, and what are they supposed to report on?",
+  "usage": {
+   "input_tokens": 191,
+   "output_tokens": 28,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "798e0e65fa6282d94d3ad1f19980e0bbfae4d4bdde220a408bc4b798c339eb19": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How are the grid spots for the race decided for drivers who got knocked out in Q1 and Q2?",
+  "usage": {
+   "input_tokens": 631,
+   "output_tokens": 34,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "5b97630637085d17be09730e568791b8e009266d04e8b4e26717c5ca55c875f4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can a driver overtake another car in the pit lane, and is there any situation where a car stopped in its garage area can be passed?",
+  "usage": {
+   "input_tokens": 263,
+   "output_tokens": 41,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "8c536b4837472fd0f420e333421bb72a8bdf91b7a01f3672056fcaa268082def": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How can I overtake a car behind the Safety Car after the restart if it has broken down or is stuck, and what happens if I pass someone when I shouldn't?",
+  "usage": {
+   "input_tokens": 639,
+   "output_tokens": 52,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "af3793f466531ab3cb10b938cea1082cfdb210b896bef06ecb47e782156faf97": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Which penalty applies to a driver who doesn't get their car moving from the pit lane when the race starts, and what happens if a problem with the start comes up after the safety car has already entered the pit lane?",
+  "usage": {
+   "input_tokens": 278,
+   "output_tokens": 64,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "31a936ba991974d470bceafa1e4061f17842ebb2e7f1d0e6a6b3461a76a3d8f4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can the Technical Delegate force a team to switch to different tyres partway through an event, using whatever tyres the supplier has on site?",
+  "usage": {
+   "input_tokens": 182,
+   "output_tokens": 44,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "c0cf73aa8d06346eed78ea1497b7fb919e8a1348d19583d94efcf0172b2c932d": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If my engine stalls while I'm serving a stop-and-go in the pit lane and I can't restart it myself, can the mechanics help me get it going right away?",
+  "usage": {
+   "input_tokens": 603,
+   "output_tokens": 294,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 242
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "ff104bf50d1c717db8df0501ca21df2d9a1d4627d33f3e1022d2f46137be9ce9": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Which meetings at an Alternative Format Competition do drivers have to attend, and when are they held?",
+  "usage": {
+   "input_tokens": 217,
+   "output_tokens": 33,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "1292f6715d7af6760a322b24ff6952a6afc390f0b389030a8e10cd77a6797e3e": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Do I have to arrange access for an FIA observer if they tell me they're coming to one of our events?",
+  "usage": {
+   "input_tokens": 197,
+   "output_tokens": 33,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "8ad745d0c56852ad176a8fea95182f419bbdc7973f70c9c0797a98b62c21a85c": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can we patch or bond a damaged bodywork panel, and are we allowed to swap in a new piece if it can't be fixed?",
+  "usage": {
+   "input_tokens": 684,
+   "output_tokens": 233,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 189
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "2c95c6779500398048bdcf46da0077bae7cdc034a4ab1c25ae3324d827e6a8d2": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What can the officials do to check whether a car or driver is eligible, and do they have to take it apart to do it?",
+  "usage": {
+   "input_tokens": 630,
+   "output_tokens": 35,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "d573ac5475b39c68cbb587d96df3e33549c83ee8a74576536fb22b4c7df191f4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Do the cars have to pass the static and dynamic crash tests before a team can run them in one of those events?",
+  "usage": {
+   "input_tokens": 371,
+   "output_tokens": 34,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "e44f44b9438aacd5e637b3d878db4250dc0c77603e624c80e3c55d2d71c931e3": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If a qualifying session is stopped partway through, do the teams get the lost time back, or can the race director end that part for good when there isn't enough time left for any car to get out and set a lap?",
+  "usage": {
+   "input_tokens": 316,
+   "output_tokens": 293,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 234
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "f5d167031103b1ddf3f2742baa166c727bf5a61344922428222fd36468ceec82": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What kind of helmet and eye protection do crew members need when they work on a car in the pit lane during qualifying?",
+  "usage": {
+   "input_tokens": 650,
+   "output_tokens": 297,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 260
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "4e8d6fe400ff60e287f1953bca2af4ad3cef59006859bc118ae7b0eed72aba68": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Is Boost mode allowed if it only stops the driver's power from being cut and never raises it, and can the power reduction be reset in the last sector before the control line?",
+  "usage": {
+   "input_tokens": 296,
+   "output_tokens": 313,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 261
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a9dab2c6efe9786b18f15075d87048bd1fbaea88558214f9b358e854615f3773": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What happens to the cars and the timing if the pit exit has to be shut before everyone is back in the pit lane for safety reasons?",
+  "usage": {
+   "input_tokens": 436,
+   "output_tokens": 43,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "84f0334f63b9c9804368754e48956dfdfb153b01ffb0c611ae41a499131895a5": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Once my car has left the pit lane for the first time in qualifying, when does it count as being locked away until the race starts, and what happens if it never leaves the pit lane?",
+  "usage": {
+   "input_tokens": 280,
+   "output_tokens": 54,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "be0e549619ad76b940af1008403e91fe02fd6b0abf2a9643ed7e85e1ca6815e1": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Are we allowed to use engine covers, spare wing covers, or things like spare floors, fuel rigs or tool trolleys to block the view while we're working in the garage or pit lane?",
+  "usage": {
+   "input_tokens": 250,
+   "output_tokens": 61,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9e1b5f9e0dff5368c9766be293364a3e4ee834b3d432234ce1e7b1199a771e22": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What happens to the timed session's finish point if the end-of-session signal is given early or delayed?",
+  "usage": {
+   "input_tokens": 238,
+   "output_tokens": 31,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "beb76fc57f3c85c11fa8913fd3f0b445f8fead6ab26de070c04131a42d86ce39": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What tyres do I have to run when the Safety Car is out and we're starting the formation lap behind it or restarting under the TTCS, and what happens if I change to a different spec while it's still on track?",
+  "usage": {
+   "input_tokens": 281,
+   "output_tokens": 63,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "0164ee799319b16f26a1092caefbb749d17b95a9c2117a2aea2aca828ef61aa8": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If a team replaces the main safety structure of its car after the first inspection, when can that car run again at a standard race weekend?",
+  "usage": {
+   "input_tokens": 333,
+   "output_tokens": 262,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 223
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "0aba763bb28b5bffea2811638274d402d5f2d3bf86c76160b0b6b9ec6d42171c": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If a car still doesn't have all its wheels on when the five-minute board goes up, what penalty does the driver get?",
+  "usage": {
+   "input_tokens": 339,
+   "output_tokens": 191,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 153
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "66d2fe235f88653c62276702cad936c608f42954c0de9fe95e55c725eaa547b6": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "When does a race weekend officially start and finish for the purposes of protests and technical checks?",
+  "usage": {
+   "input_tokens": 219,
+   "output_tokens": 155,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 126
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "94ea7b1a87de3f57b98e0838dfa4e0bce5a9962670fd358fdfff19d7855a948b": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What do I have to do with my intermediate tyres if the first practice session, second practice session, or third practice session is declared wet?",
+  "usage": {
+   "input_tokens": 232,
+   "output_tokens": 40,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "2d16e3ebd9481cc1fc35c504d3b53eeb8a5d14c47717d2c482d60dd6dc6036bd": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What do I have to do for media after the race if I'm not in the top three and my team hasn't set up a written media session?",
+  "usage": {
+   "input_tokens": 327,
+   "output_tokens": 36,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "babe901ce6ca18460b13c73ec3b14e0700f2f1a8b38ae8dd3a25421fbbed6fa7": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Could a team use a rookie driver in FP1 or FP2 who has done at most two Championship races, and what do they have to do to make that work?",
+  "usage": {
+   "input_tokens": 496,
+   "output_tokens": 46,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "047a7ad6a90c58d57777df123fedcb7f9e04c90917a77b5adee05935e3c2d294": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Which car at the post-season test has to run the current-year or previous-year parts, and can a young driver use it?",
+  "usage": {
+   "input_tokens": 613,
+   "output_tokens": 35,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a2da113f95e0b9d3d3ce9025d18d4b422913e3305c9dbb842110a30023351fae": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How many sets of wet-weather tyres does each driver get for a competition?",
+  "usage": {
+   "input_tokens": 363,
+   "output_tokens": 405,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 380
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "d56da6e42112279006cfaa543ae5517250aff9cea6e2203f1b1cceea81a06925": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What happens to the start lights and the message to drivers if the Race Director delays the start while the grid procedure is still going on and the formation lap hasn't begun?",
+  "usage": {
+   "input_tokens": 216,
+   "output_tokens": 51,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "1b2f06319102bb549abed50c21bb1d17cdc6a46d655896f048cfd0b4341bb7f9": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Who has the final say on stopping a session or the race if conditions are unsafe, and who handles the restart?",
+  "usage": {
+   "input_tokens": 420,
+   "output_tokens": 35,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "402724c720d74418c9e65b1b182336a6d3565e2045e37893106b4565fe2aed3c": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What happens if a problem comes up before the start that isn't serious enough to cancel it, and the race director decides to send everyone around one more formation lap?",
+  "usage": {
+   "input_tokens": 602,
+   "output_tokens": 48,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "43be7a23334e6e10647053b7a40c14fe5528dd2f50eaa30547df2ad4dd008048": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How many engines, turbochargers and exhaust sets can each driver use in a championship?",
+  "usage": {
+   "input_tokens": 525,
+   "output_tokens": 29,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "528c0c099aa537610f1c46cd06feebddc7c1ab96b67d5683f6e41a7b7bc93698": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If my driver is further than one second behind the car ahead when they pass the timing point on a short track section, can they still use the overtaking aid at the activation zone?",
+  "usage": {
+   "input_tokens": 380,
+   "output_tokens": 452,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 402
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "45a43209b0e1b9b69e6b04d2041d348ed4bc4de2dc1bd656cafec02b473b64ec": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Who has to go to the podium after a race, and what do they have to do afterward?",
+  "usage": {
+   "input_tokens": 239,
+   "output_tokens": 26,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "dda30664586d280d77725eea42a0caacf08aacf729e4d0e01c8272444cd906a1": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can we still change our staff list with the FIA once the restricted period has started?",
+  "usage": {
+   "input_tokens": 383,
+   "output_tokens": 182,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 157
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "c922ca6bdb7ac6b2357d11c261d777c551a005d074be1c3bb361ffb855c4ec7c": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How soon before the restart do the cars that were between the Safety Car and the leader get to leave the pit lane, and what do they have to do?",
+  "usage": {
+   "input_tokens": 465,
+   "output_tokens": 44,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "eb2b71db5d18864bc380ab2c7cb18abf0c2ec4691562022ac223c7f3352ff8d4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If I'm starting from the pit lane, when am I allowed to leave and join the formation lap, and what order do we go out in?",
+  "usage": {
+   "input_tokens": 343,
+   "output_tokens": 312,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 271
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "7177f4385306c59728ef232bac9ad430d8192d36daeff78eee4cda6e96344f60": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can I put a cover over my car in the pit lane or on the grid when it's raining?",
+  "usage": {
+   "input_tokens": 348,
+   "output_tokens": 29,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "eec930b0e16e57fa887e87f97fd1811800990439c7a935536816de4d493d66dd": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What rear light do cars need if the driver doesn't have a Super Licence?",
+  "usage": {
+   "input_tokens": 169,
+   "output_tokens": 26,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "fee897022676d4503da07e4ce2af6fcedbbe3a245d203b64f0c7cae4c5b471ea": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What do the driver's adjustable wing settings have to be for the car to count as fully activated, and when does it count as only partially activated?",
+  "usage": {
+   "input_tokens": 690,
+   "output_tokens": 42,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "5246b6304bafcac9262fea03b07592aca9591f4bf9a39272ab8b981e3fb1e669": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Do I have to do press or fan events the day before the race weekend, and how long do they last?",
+  "usage": {
+   "input_tokens": 640,
+   "output_tokens": 29,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "c7a3b3bf9f2ab8727d2ded938070762a440655384e6c0950a673a0da7a03d28a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Who needs to agree before a team can fit extra sensors to measure tyre condition or performance on the car, and what happens to the data afterward?",
+  "usage": {
+   "input_tokens": 248,
+   "output_tokens": 46,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "06d15478bf387254b4d42509cbe43dd38ba4d38a8423282ef049eec73f338a31": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What do I have to do if my car gets picked for extra checks after qualifying?",
+  "usage": {
+   "input_tokens": 194,
+   "output_tokens": 26,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "4f05c1094aeee60dea01c090134e46fc0ce98c5899c4263e44e7a5fe20646572": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Which older parts can a team use on its test cars before the first race of the season?",
+  "usage": {
+   "input_tokens": 439,
+   "output_tokens": 24,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "1a7b852a76af6e8304ba806ddc22a663ecb7ba67746ff7b9fb347e395c9c5ab8": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How long do I have to wait before my mechanics can touch the car if it's stopped in the pit lane for a stop-and-go penalty and the engine cuts out?",
+  "usage": {
+   "input_tokens": 523,
+   "output_tokens": 53,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a044f3f776699971d34d32afb602ef9105b7b8fbd1423f40caed188c8b3407c1": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How does the race director bring in the VSC, and how do drivers and the marshals' light panels find out it's been deployed?",
+  "usage": {
+   "input_tokens": 207,
+   "output_tokens": 39,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "d7b50628ddc93cca1f56e5049c973c2ac535f5440210562dda6711c69ca798e3": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What do we need to set up on the podium for the winners' ceremony, and where should the trophies go?",
+  "usage": {
+   "input_tokens": 732,
+   "output_tokens": 32,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "3cae9335be2996199fbdbe31e5f581ead52a736e24bafd67f4021b51043bb90a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "When are we allowed to run cars for tyre checks, and what are the time and location limits?",
+  "usage": {
+   "input_tokens": 296,
+   "output_tokens": 345,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 316
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "69c0aa7bceca1480d08c8e3ce4f396d8ef790cae27f36a637a32cd11739518e4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How many events per season can the reduced energy-recovery rule be used, and how many of those can have an energy limit below 5MJ?",
+  "usage": {
+   "input_tokens": 517,
+   "output_tokens": 237,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 195
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "e48daae93fc2beeac26eb4faabed5e73fddedd167870f8ef8e8f2502a1238a37": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can a team add or remove anything from the car once it's been picked for weighing or is in the middle of the weighing process?",
+  "usage": {
+   "input_tokens": 180,
+   "output_tokens": 38,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "d5ff73c7e5cf234addc746bd024b447571e062604245c20d8a932c568be9fb5b": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Before a sprint, how many laps can each driver do around the track, and how long is the pit exit open?",
+  "usage": {
+   "input_tokens": 564,
+   "output_tokens": 250,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 217
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "e07eaea2f2fd32c1450ccf42c258bb4c3048d66f927b659fdb05a7f4ab2c8513": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can the race winner celebrate on track before heading to the secure holding area, and what conditions apply?",
+  "usage": {
+   "input_tokens": 362,
+   "output_tokens": 380,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 347
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "1b9705df08ae06c10f2c5fd8036b1aec2c15742df2dbbe4c51478cd16d30b94a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Do I have to go back into the pit lane after a standing start restart if my car was in the garage or had been moved out of the fast lane during the suspension, and when can I rejoin the timing-controlled start?",
+  "usage": {
+   "input_tokens": 623,
+   "output_tokens": 65,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "284a6b755dce410bc4f013d14346a256472b16aa18cf146f8b9904c785a7b170": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How big a gap can there be between the cars behind the Safety Car when visibility is poor, and who decides that?",
+  "usage": {
+   "input_tokens": 322,
+   "output_tokens": 36,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9c42204a6ca73325e5c254cda6413d1260335d7875c18ec2cbde3551f2c29ff5": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What happens to a driver who gets knocked out in the first sprint qualifying session with a lap more than 107% of the fastest time, and the track wasn't wet?",
+  "usage": {
+   "input_tokens": 598,
+   "output_tokens": 53,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "e3964ff2710a514623e0d44587718bf2674b8f63a27d820cdb423eac36265c79": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can a driver stay sitting in the car while it's being refuelled, as long as the engine is off?",
+  "usage": {
+   "input_tokens": 484,
+   "output_tokens": 33,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "c295bcd665ac1b113cebc49e41882152ef9fb0b93d3fc3774a6d0a5d10b2b938": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If my car starts from the pit lane, when can it join the formation laps, and when does it have to head back into the pits?",
+  "usage": {
+   "input_tokens": 251,
+   "output_tokens": 254,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 217
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "b6aaebecbab37b79c271512c7129cda8b52fe91342b10b9ba576054679d41aa7": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "When a rolling start is called behind the safety car, when are drivers allowed to overtake again?",
+  "usage": {
+   "input_tokens": 666,
+   "output_tokens": 274,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 243
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "b288935d3a12750034135ab8a6051022e96a91575f04c7eee6cf4558eca1f71d": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How much warning do drivers get before the start of a TTCS, and what signals mark it?",
+  "usage": {
+   "input_tokens": 198,
+   "output_tokens": 29,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "4ec65315d18449f56d4d5e7d97bfc481f38ea634890835378a26c67decfad472": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How many stewards does the FIA appoint for a race, and who decides which one is chair?",
+  "usage": {
+   "input_tokens": 191,
+   "output_tokens": 29,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "ff37319e186e87f62d8ff6311daf836f2be32b1c6387764809fada345faae239": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How many sets of intermediate tyres do I have to hand back after a wet practice session, and by when?",
+  "usage": {
+   "input_tokens": 233,
+   "output_tokens": 33,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "3e62eca639fa3619f31741a514d2b8afc3535d3bbb3b531ed50a3459e57f974d": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How many laps does a race need to cover, and is Monaco's race length different?",
+  "usage": {
+   "input_tokens": 307,
+   "output_tokens": 217,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 192
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9fe9568e0cfd37a860e1d23b7adbb408ea2d03bf4b43cd508b1b50c2852ba600": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If the race is suspended and restarted, do cars that were in their garage or had moved out of the fast lane have to go back into the pit lane first, and can they only rejoin once the pit exit reopens?",
+  "usage": {
+   "input_tokens": 673,
+   "output_tokens": 347,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 283
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9058c5235476704c4b760cc56d92cc682591e0635f67c67d731747b2a4be88e9": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How many laps does a Sprint run, and does that change if the race starts behind the Safety Car?",
+  "usage": {
+   "input_tokens": 271,
+   "output_tokens": 32,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a324d84f51bdcdd11da33b4185ebb62f10f36aa81743fd20435ca300e5556f4f": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Do the white lines count as part of the track, and are the kerbs included too?",
+  "usage": {
+   "input_tokens": 312,
+   "output_tokens": 25,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "038669bc10d2ab56bafdbdb6e6ded96cfd0d927fbc5799f9349dc11244ff6e17": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How do we restart the race from a standing start when the Race Director says it's safe, and what changes for the cars once that happens?",
+  "usage": {
+   "input_tokens": 437,
+   "output_tokens": 39,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "8d1d61e9a18edea781d5d5ec25104d3229570067929e758a0cd742232e2b3347": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How far apart can cars be when they're queued behind the safety car, and does that limit change when visibility is poor?",
+  "usage": {
+   "input_tokens": 548,
+   "output_tokens": 196,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 160
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "e0a453df85aae98a0ca5ca27be383baa08acd1dd5575d7daccc78a7e5002d4e6": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If a driver has a drive-through or stop-and-go penalty, can they still serve it while the safety car is out or a virtual safety car is in effect?",
+  "usage": {
+   "input_tokens": 641,
+   "output_tokens": 265,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 216
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "844e862e339314b0ddec7fe34591c74bfe9b708d8604aea6fa350a1661df1a44": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can a team fit parts or software that don't meet the usual rules for the TPC if they have a good reason, like cost, safety, or track conditions, and what do they need to do to ask for that?",
+  "usage": {
+   "input_tokens": 228,
+   "output_tokens": 61,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "88d2d38b5d1b0439d149737cfb5cbd2b08f76b1a81d2fc6e385991d1d9ee8034": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What should a driver do with the car, and where should they go, if they have to stop and leave it on the circuit?",
+  "usage": {
+   "input_tokens": 241,
+   "output_tokens": 34,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "1b985780951044376faf23e502139ae25a738038d063b516293783dcbb094d79": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How long does a team have to receive a decision about one of its drivers, and do they have to confirm they got it?",
+  "usage": {
+   "input_tokens": 301,
+   "output_tokens": 34,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "241451ce77748dc9948adb4e67450fd07e08823b348824f9dca00391771bfe41": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What happens to a driver who caused an aborted start and can get the car going again, and where do they have to start from?",
+  "usage": {
+   "input_tokens": 240,
+   "output_tokens": 34,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "58b29e5be7c737b27853a9b329092a8163217fccfe1bb6f729c642a081f258ee": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How many cars can our team use for testing per day, and what hours does a testing day cover?",
+  "usage": {
+   "input_tokens": 232,
+   "output_tokens": 28,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "bfa4849e7f10d0715f609f6755e453e7e968cfd0291e2c2f27e8ba1c84f5dd51": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Once the leader is behind the Safety Car, when does the Safety Car actually head back to the pits?",
+  "usage": {
+   "input_tokens": 272,
+   "output_tokens": 34,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "e1bd73b74ff220c4df0b988b333dbdeabc8137f5bc443275548340696aef3415": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Do the pit lane and track safety rules stay the same across practice, qualifying, sprint qualifying, and sprint sessions as they are for the race?",
+  "usage": {
+   "input_tokens": 185,
+   "output_tokens": 50,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "21da7f1611c77e81a6c38e6af9bfe2424d82db1a6acd0602ee5d86d1a776570f": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What's the deadline for a team to hand in its list of new aero and bodywork parts before first practice, and when does the media get to see that list?",
+  "usage": {
+   "input_tokens": 333,
+   "output_tokens": 44,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "7585d8e004d8de7bd4700b97f7f5c378a96bc6114ee2ab84672a12dfe0c08014": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What do the top three finishers have to wear during the podium ceremony and post-race interviews?",
+  "usage": {
+   "input_tokens": 195,
+   "output_tokens": 30,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "bf4121fb82a346c965842f65b5fd9baf288c16c44920e1ed2f130ac95b712347": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If a car was in its garage when the restart was paused, where does it line up when the restart resumes?",
+  "usage": {
+   "input_tokens": 595,
+   "output_tokens": 218,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 187
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "d8e66aa4614fe3f752577d4416172b10add67af8b1fb6d4b20de28ea9b12875c": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Who can bring an on-track incident or a suspected rule breach to the stewards' attention?",
+  "usage": {
+   "input_tokens": 171,
+   "output_tokens": 31,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "12bbf7d39abc0fdd50c4fb1991fa69cba304d802228a12fbbc4e9a81955bbc9c": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Can we swap out the small parts on the car without getting penalized, as long as we don't break any seals?",
+  "usage": {
+   "input_tokens": 194,
+   "output_tokens": 33,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "2099c6350a83590ff083c825f33593efe89d7b0b582a18baa097fd39922c6ae4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Do I have to pull my car off the track straight away if it's badly damaged or has a major fault that stops it getting back to the pits?",
+  "usage": {
+   "input_tokens": 311,
+   "output_tokens": 43,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "aef0dca88fece0caaf9ff3009d33452a92fe826b0df04bb66b81f110c1147e42": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Do we have to tell the other teams in advance about any parts that get swapped out while the cars are under parc ferm\u00e9, and when does that list need to go out?",
+  "usage": {
+   "input_tokens": 174,
+   "output_tokens": 48,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "96d7bd639c6e6fc5215fa86d4396d29e2d6e0604228443d5263fd759fc5b175c": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How many days of tyre testing can the FIA organise each year, and who is allowed to take part in them?",
+  "usage": {
+   "input_tokens": 623,
+   "output_tokens": 33,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "3417c05ff94c6d85c96aecf018517f838f05b6fff4ff304f5302ceca4c1400bc": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How do drivers get weighed after the final qualifying session, and what should they avoid doing before they're weighed?",
+  "usage": {
+   "input_tokens": 405,
+   "output_tokens": 36,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "e9bb174f1a948219cb16ccb684960eb63f32b596c729c2278aafab92976b5117": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "What do the lights at the end of the pit lane tell drivers about when they can leave the pit lane, and what does the blue flag or flashing blue light warn them about?",
+  "usage": {
+   "input_tokens": 407,
+   "output_tokens": 53,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "3945d40ac0d9fabe8cfbc0ca2fbb6d88442ad90ef9ab038276c24e0618345ea8": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Our car is still in the pit lane when the exit closes after the warm-up laps. Can we still start from the end of the pit lane if it got there under its own power?",
+  "usage": {
+   "input_tokens": 178,
+   "output_tokens": 51,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "265e0443f6889707a190ca1d051538c5d75af7e76de10543276042c00fbf6e2b": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "Are under-16s allowed in the pit lane around practice, qualifying, and sprint qualifying sessions, and how long before and after those sessions is it off-limits?",
+  "usage": {
+   "input_tokens": 285,
+   "output_tokens": 271,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 216
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "b4d2cea3f7e74e517e2b1c92d9a120d4b5565bcbf0cc96ea6797e510a946bd2b": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How many cars can a team have available at once during an event, and when can it have a third one?",
+  "usage": {
+   "input_tokens": 367,
+   "output_tokens": 26,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "c56b22299a645a6d6a6bfc89bb33e94b7e4f9540582d0882e56ac2b48d52ab63": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How do you decide who wins a race, and what happens to a car that finishes far behind the leader?",
+  "usage": {
+   "input_tokens": 352,
+   "output_tokens": 31,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "21729e474bb277cb74745d37a2cbdec3e84975e6e107582eb3c30f44e51d39b8": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "If a supplier's engineer runs one of our older cars on track on our behalf, outside a race, does that still count as an old-car test session?",
+  "usage": {
+   "input_tokens": 254,
+   "output_tokens": 313,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 269
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "af4fd9b37353ae2da79e5e9fc0ccd0dbdac5ecc8f6ca8287418da479d2278210": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "When does a set of tyres count as used if they were fitted in the pit lane or on the grid?",
+  "usage": {
+   "input_tokens": 213,
+   "output_tokens": 31,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "5ea185c221493e2e3dd148eb7b945caa267cca4d5330e240c7f94014f0b580f3": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How does the Safety Car get into position at the front of the grid before the race starts, and when does it move?",
+  "usage": {
+   "input_tokens": 207,
+   "output_tokens": 32,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "fa1f32e0fb94ce5674ca45bc120d186837aca96a8fedbc8d2018c3f93ac763eb": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "question": "How do the stewards penalise a driver who stops for no good reason on track or holds up another driver during a long-track championship event?",
+  "usage": {
+   "input_tokens": 211,
+   "output_tokens": 40,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ }
+}
