@@ -1,0 +1,1066 @@
+{
+ "5bbbad529ebe0f613b39acf5cae841fc71ab9d2686c58b65bce38577f08d16dc": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The pit lane speed limit is 80 km/h for the whole competition [1]. The Race Director may amend this limit to ensure the safe and orderly conduct of the competition [1].\n\nDrivers who exceed the limit during free practice, qualifying, or sprint qualifying are fined \u20ac100 for each km/h over the limit, up to a maximum of \u20ac1000 [1]. During a TTCS, the stewards may instead impose a 5-second, 10-second, drive-through, or stop-and-go penalty [1].",
+  "gen_s": 3.945654417038895,
+  "usage": {
+   "input_tokens": 929,
+   "output_tokens": 238,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 72
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "aa69721830619d61b35cae1ff52395057a62c763f80e3c5e72a8fc721bf29dee": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The speed limit in the Pit Lane is 80 km/h during the whole Competition. However, to ensure the safe and orderly conduct of the Competition, the Race Director may amend this limit [1].\n\nWhen leaving the grid, all drivers must respect the Pit Lane speed limit until they pass pole position [2][3].",
+  "gen_s": 1.7290287499781698,
+  "usage": {
+   "input_tokens": 780,
+   "output_tokens": 105,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "228547721b672f7c0a272c87a5a67dec542eb178aac4b605bff0f3dec527b0db": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The race distance is not a fixed number. Under Article B2.5.2, it is the least number of complete laps that exceeds 305 km [1].\n\nThere are two exceptions:\n- **Monaco:** the race distance is the least number of complete laps that exceeds 260 km [1].\n- **Safety Car start:** if the formation lap(s) is started behind the Safety Car, the number of race laps is reduced by the number of laps the Safety Car completes, minus one [1].\n\nThe passages do not give lap lengths, so they do not state the exact distance for any specific circuit. Passages [2] and [3] concern track running outside a competition and do not address race distance.",
+  "gen_s": 3.7665179580217227,
+  "usage": {
+   "input_tokens": 566,
+   "output_tokens": 384,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 174
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "3ecc7b13d4511871e2198ad0acd95ebd95226b936e10fc8a682ee72a236dc2b3": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages don't give a single fixed race distance. The race distance is the least number of complete laps that exceeds 305km [1]. The race in Monaco is instead the least number of complete laps that exceeds 260km [1].\n\nIf the formation lap(s) start behind the Safety Car, the number of race laps is reduced by the number of Safety Car laps minus one [1].\n\nThe passages don't state the length of a lap, so they don't give the exact total distance.",
+  "gen_s": 2.94818954099901,
+  "usage": {
+   "input_tokens": 502,
+   "output_tokens": 296,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 152
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "f6c6a83358c604c745051a2c53baf51d72ac07d59c51a0924d927783c69fe4ef": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Twelve (12) team members for each Competitor are permitted in the signalling area during any free practice session, qualifying session, sprint qualifying session, sprint session, and the Race [1].",
+  "gen_s": 1.9315470000728965,
+  "usage": {
+   "input_tokens": 459,
+   "output_tokens": 139,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 78
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "0c02874be3e6b0864d73b24895d586b8b04694ce71cf879ca73a48f3553e0900": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The provided passages do not cover how many mechanics can be on the grid before the start. They address topics such as cars moved from the grid to the Pit Lane before the formation lap [1], Power Unit element penalties [2], and race grid allocation and withdrawals [3], but none mention mechanics.",
+  "gen_s": 2.52922975004185,
+  "usage": {
+   "input_tokens": 1273,
+   "output_tokens": 212,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 117
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "bd83092b7e740ed8a6e97f31471a1b600cf3320039aba9075c1c30d3985d67ab": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The provided passages do not specify how many mechanics can be on the grid before the start. They mention that \"the driver and mechanics must follow the instructions of the marshals at all times\" when an immobilised car is being pushed to the Pit Lane Inner Lane [2], but they give no limit on the number of mechanics.",
+  "gen_s": 3.185327000101097,
+  "usage": {
+   "input_tokens": 1206,
+   "output_tokens": 213,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 113
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "f77c0c855d6320a9ac8d6ef2af70f3b5f6458090bb6eaefba9574eec8443e595": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages don't use the term \"jump start,\" but the false start rules in Article B5.11.1 appear to cover it. Under that article, cars must be stationary in their grid positions until the start signal, and the stewards can impose a **5-second penalty, a 10-second penalty, a drive-through penalty, or a stop-and-go penalty** on any driver judged to have breached this, at their sole discretion [3].",
+  "gen_s": 9.406252583954483,
+  "usage": {
+   "input_tokens": 919,
+   "output_tokens": 350,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 219
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "19531331ad2187b949f8792c64ec27051cc6dd5588b6d424a91d00bbf56e83a3": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages do not cover jump starts, so I can't say how one is penalised.\n\nThey do cover related situations. A Stop-and-Go Penalty is imposed on any driver who fails to start the TTCS from the Pit Lane [1][3]. Drivers who cause an aborted start and can then restart must start from the end of the Pit Lane [1]. Also, a Stop-and-Go Penalty imposed after a TTCS adds 30 seconds to the driver's elapsed time [2].",
+  "gen_s": 3.0174601658945903,
+  "usage": {
+   "input_tokens": 1085,
+   "output_tokens": 256,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 96
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "53b213b32b7faca1a5917f410bd5dc47395ce97414ea046a52d65e8b3c452f03": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Yes, but only under conditions. Under Article B1.8.6, a driver who leaves the track may re-join, but only when it is safe to do so and without gaining any lasting advantage [1]. The Race Director may also, at their absolute discretion, give a driver the chance to give back the whole of any advantage gained by leaving the track [1].\n\nThe same article says drivers must make every reasonable effort to stay on the track and may not leave it without a justifiable reason [1].",
+  "gen_s": 3.5534267500042915,
+  "usage": {
+   "input_tokens": 1348,
+   "output_tokens": 252,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 102
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "786253151268182ed09008211919409ef0bb8a23b51fd98a7d4d99d1c7b2f89a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Yes, but only under conditions. A driver who leaves the track may re-join, but only when it is safe to do so and without gaining any lasting advantage [1]. At the Race Director's absolute discretion, a driver may be given the chance to give back the whole of any advantage gained by leaving the track [1].\n\nDrivers are also expected to make every reasonable effort to stay on the track and may not leave it without a justifiable reason [1].",
+  "gen_s": 2.739257709006779,
+  "usage": {
+   "input_tokens": 1495,
+   "output_tokens": 243,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 104
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "15be7d1f9332a81930d6785a371b97595ea5b7b0957294fc4d1551caeb35e9f2": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The provided passages do not cover how results are decided if a race is stopped and cannot be restarted. They describe the qualifying session timing [1], the procedure for an aborted start before the race begins [2], and the standing start resumption procedure after a Safety Car period [3], but none of them address a race that is halted permanently.",
+  "gen_s": 2.765538709005341,
+  "usage": {
+   "input_tokens": 1032,
+   "output_tokens": 213,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 112
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "87bcfd760a425800a3dec5bcef0906cfc640a07ea7f7ff5029f7fa6e17cc6167": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages don't fully answer this. They only cover one consequence of a race that is suspended and cannot be restarted: the tyre-compliance penalty.\n\nUnder the tyre rules, if the race is suspended and cannot be re-started, 30 seconds is added to the elapsed time of any driver who did not, when required, use at least two specifications of dry-weather tyre during the race [1]. Disqualification applies only where the race is not suspended, or where it is suspended but can be restarted [1].\n\nThe passages do not explain how the final classification is otherwise determined in that situation. [2] covers resumption procedures for a Total Time Classified Session, and [3] covers interrupted Sprint Qualifying and Qualifying sessions, so neither addresses race results after a stoppage.",
+  "gen_s": 3.593054624972865,
+  "usage": {
+   "input_tokens": 982,
+   "output_tokens": 468,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 218
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "1950c360443e41d8c80a175c3933f03f029127073b26072473eac520012c8424": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "At a Standard Format Competition without additional tyres for ICTT, two sets of dry-weather tyres must be electronically returned no later than two hours after the end of FP1 [3].",
+  "gen_s": 2.427921124966815,
+  "usage": {
+   "input_tokens": 1123,
+   "output_tokens": 141,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 81
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "05c150a9d13b3e6a352db13fa1371f1f9570dc16820d4cba88ebfcd6e767c27b": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "At a Standard Format Competition where additional tyres are not made available for ICTT, two sets of dry-weather tyres must be electronically returned no later than two hours after the end of FP1 [2].",
+  "gen_s": 2.512368291034363,
+  "usage": {
+   "input_tokens": 1538,
+   "output_tokens": 231,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 167
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "66b95947180bb56962b03b2a935c30a2445356ae5a322645c963d51841cb466b": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Each driver gets **8 sets of soft-specification tyres** at a Standard Format Competition [1].\n\nThe table in [1] is garbled, but its first value column corresponds to the Standard Format Competition. If that competition includes ICTT (In-Competition Tyre Testing), the soft allocation drops to 6 sets [1][3].",
+  "gen_s": 3.2731952499598265,
+  "usage": {
+   "input_tokens": 1141,
+   "output_tokens": 429,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 318
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9b84aa338599af19f85a90d90539b011d609404ce9ef3b8600b1ea10f618927c": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "At a Standard Format Competition, each driver is allocated **8 sets of Soft Specification dry-weather tyres** [1].\n\nThe table also covers a Standard Format Competition with ICTT, where the allocation is 6 s",
+  "gen_s": 6.13633862498682,
+  "usage": {
+   "input_tokens": 1231,
+   "output_tokens": 800,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 727
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "556c22a1be4c0698c824fd0a8ffbb94800b4c3a851d21d3af0c750055b9b45a3": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "A driver must serve a 5-Second Penalty **the next time they enter the Pit Lane** [1]. There are two exceptions. The penalty is not served when entering the Pit Lane solely to follow the Safety Car, or when entering the Pit Lane after a red flag during a suspension procedure [1]. However, the driver must serve it if they choose to stop in their Designated Garage Area during a VSC or Safety Car procedure, including when following the Safety Car through the Pit Lane [1].\n\nA driver may instead elect not to serve the penalty during the TTCS, provided they make no further pit stop before the TTCS ends. In that case, 5 seconds is added to their elapsed time [1][2]. If the penalty is imposed after the TTCS has ended, 5 seconds is added to the driver's elapsed time instead [3].",
+  "gen_s": 3.159840040956624,
+  "usage": {
+   "input_tokens": 1807,
+   "output_tokens": 497,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 224
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "3d68adf1a9ff1a17fcc2402d56a0063ed7435ffa3e00d4878cff3307657d1924": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "A driver must serve a 5-Second Penalty **the next time they enter the Pit Lane** [1]. There are two exceptions: entering the Pit Lane solely to follow the Safety Car, or entering the Pit Lane following a red flag during a suspension procedure [1]. However, if the driver elects to stop in their Designated Garage Area while a VSC or Safety Car procedure is in use, including when following the Safety Car through the Pit Lane, they must serve the penalty [1].\n\nThe driver may instead elect not to serve the penalty during the TTCS, provided they make no further pit stop before the TTCS ends. In that case, 5 seconds is added to their elapsed time [1][2].",
+  "gen_s": 3.3977455829735845,
+  "usage": {
+   "input_tokens": 1805,
+   "output_tokens": 400,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 172
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "1a14b45f7732b44869b51bac26757a22c9e2579d4e4a47c515f238797561783d": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "**Generally no, with a limited exception.** Work on a car in the Fast Lane is not allowed unless a specific exception applies.\n\n- **General rule:** Competitors may not work on a car or leave equipment in the Fast Lane, except as specified in Articles B5.3.3 and B5.14.4a [3]. The Inner Lane is the only area for work on an F1 Car, except when F1 Cars are at the end of the Pit Lane under Articles B5.3 and B5.14 [2][3].\n\n- **Exception (Article B5.3.3):** Work in the Fast Lane is permitted until 15 seconds before the formation lap begins. After that, all personnel and equipment must be clear. The permitted work is limited to:\n  a. Starting the engine and directly associated preparation.\n  b. Fitting or removing permitted cooling and heating devices.\n  c. Changes made for driver comfort.\n  d. Changing wheels and tyres, subject to Article B5.5.3.\n  e. Adjusting the front wing profiles, where not controlled by the FIA Standard ECU, in accordance with Article C3.10.10. No parts may be added, removed, or replaced. [1]\n\n  Drivers must follow marshals' directions at all times [1].\n\n- **Additional restriction:** No work may be carried out in the Fast Lane if it is likely to hinder other F1 Cars trying to leave the Pit Lane [2][3].\n\nThe prov",
+  "gen_s": 4.96047933306545,
+  "usage": {
+   "input_tokens": 1256,
+   "output_tokens": 800,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 331
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "3a31d9c210e321f47adf9ea308627a742fcf2dbd91fce508df73130c452fde36": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages don't say whether a driver can receive physical help after stopping on the circuit during the Race and still rejoin.\n\nThe closest rules concern abandonment. Under [2], any F1 Car abandoned on the circuit by its driver, even temporarily, is considered withdrawn from the session, except during a TTCS suspension. Even then, a car may be allowed to rejoin only in exceptional circumstances and only if it was not abandoned because of a mechanical issue, car damage, or to gain an advantage. The passages do not say whether receiving physical help counts as abandonment or affects that status.\n\nUnder [3], a driver who abandons a car must leave it in neutral or with the clutch disengaged, with the ERS shut down and the steering wheel in place. The driver must also obey marshals' instructions and proceed without undue delay to a place of safety behind the barriers and debris fence.",
+  "gen_s": 5.780720792012289,
+  "usage": {
+   "input_tokens": 610,
+   "output_tokens": 647,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 362
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "742e1b35f1d05421f6cb492582e3832a106efd137ba11efc1ff4d51c3aa74965": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages do not directly answer this. None of them addresses receiving physical help after stopping on track during the Race.\n\nThey do cover related points:\n\n- An F1 Car abandoned on the circuit by its driver, even temporarily, is considered withdrawn from the session, except during the suspension of a TTCS. In exceptional circumstances, a car abandoned during a TTCS suspension may take part when the session resumes, provided it was not abandoned because of a mechanical issue, car damage, or to gain an advantage [1].\n- A driver who abandons a car must leave it in neutral or with the clutch disengaged, with the ERS shut down and the steering wheel in place. The driver must obey marshals' instructions and proceed without undue delay to a place of safety behind both lines of protection [2].\n\nThe weighing rules in [3] mention contact with other people only for drivers in the final period of Sprint Qualifying or Qualifying, so they do not apply to the Race.",
+  "gen_s": 3.867951499996707,
+  "usage": {
+   "input_tokens": 984,
+   "output_tokens": 590,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 282
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "598ae35131c00454f0b116f77a93a43dd574311ff006e556ac130730445ebf13": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Yes. Under Article B2.5.2, the Race distance is reduced when the formation lap(s) is started behind the Safety Car. In that case, the number of Race laps is reduced by the number of laps the Safety Car completes, minus one [1].\n\nThe same article also sets a different distance for the Monaco Grand Prix, which is the least number of complete laps exceeding 260km rather than 305km [1]. This is a shorter base distance, not a reduction triggered by a circumstance during the race.\n\nPassages [2] and [3] concern track running limits for demonstration events, not the Race distance.",
+  "gen_s": 3.6357792910421267,
+  "usage": {
+   "input_tokens": 492,
+   "output_tokens": 435,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 243
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "2a1e2f7dbf62250c03140817fe5f475a45e92fbc92ff9b732a755aa59aabf2e4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Yes. The Race distance is reduced when the formation lap(s) is started behind the Safety Car. In that case, the number of Race laps is reduced by the number of laps the Safety Car completes, minus one [1].\n\nThe Race distance is also set shorter at Monaco, at the least number of complete laps exceeding 260km rather than 305km [1]. This is a fixed, different distance for that event, not a reduction applied during a race.",
+  "gen_s": 3.4738997500389814,
+  "usage": {
+   "input_tokens": 1058,
+   "output_tokens": 387,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 247
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "68711be293313330a48c5d25429ab0857b76cb35a01ae75d530c86c2f48d0976": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Generally, the passages suggest drivers cannot overtake while the Safety Car is deployed, but only the exceptions are spelled out. The passages do not state the general prohibition itself.\n\nThe exceptions include:\n\n- **Pit areas:** While in the Pit Entry Road, Pit Lane or Pit Exit Road, a driver may overtake another F1 Car that is also in one of those areas, subject to Article B5.13.3 [2].\n- **Stopped cars:** An F1 Car stopping in its Designated Garage Area while the Safety Car is using the Pit Lane may be overtaken [2].\n- **Slow cars with an obvious problem:** Any F1 Car that slows with an obvious problem may be overtaken [2].\n- **Cars required to pass:** When the Race Director instructs, the Safety Car's green light signals cars between it and the leader to pass. Once they have passed, the light goes out to signal that overtaking is no longer permitted, except in the cases listed in B5.13.2c [3].\n- **Lapped cars:** If the Race Director considers it safe, the message \"LAPPED CARS MAY NOW OVERTAKE\" is sent, and lapped cars are required to pass the lead-lap cars and the Safety Car [3].\n\nThe Race Director can also block overtaking altogether. If track conditions are considered unsuitable, \"OVERTAKING WILL NOT BE PERMITTED\" is sent to all Competitors [3].",
+  "gen_s": 4.5433961659437045,
+  "usage": {
+   "input_tokens": 1194,
+   "output_tokens": 752,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 271
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "bf06363fb6be43cb511203da1c50b3bdb0f45d0e4cc37dda863bb6cc20ffce0a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "No, not in general. When the Safety Car is deployed, Overtake is disabled [2]. It is re-enabled only after all F1 Cars have crossed the Control Line following the Safety Car's entry into the Pit Entry Road to return to the Pit Lane [2].\n\nThere are limited exceptions in the Safety Car provisions. While the Safety Car is deployed, a driver may overtake another F1 Car that is also in the Pit Entry Road, Pit Lane or Pit Exit Road, subject to Article B5.13.3 [1]. A car stopping in its Designated Garage Area while the Safety Car is using the Pit Lane may be overtaken [1]. A car that slows with an obvious problem may also be overtaken [1].\n\nThe excerpt begins at item vi, so items i to v of B5.13.2 are not included and may contain further exceptions.",
+  "gen_s": 5.132228625006974,
+  "usage": {
+   "input_tokens": 1034,
+   "output_tokens": 612,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 329
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "5543da1ca0a3ad8b4402125f65124135bc29d3dc5103c76acc0b361c25c4d33d": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "A team can change parts on a car in parc ferm\u00e9 only in two situations:\n\n1. **Work listed in Appendix B2.** The general rule is that no part of the car may be replaced or modified, but work listed in Appendix B2 is an exception [1].\n2. **Work approved by the Technical Delegate under Article B3.5.4.** Parts may also be replaced with the Technical Delegate's approval [1]. Any parts replaced with the Technical Delegate's specific agreement while the cars are under parc ferm\u00e9 conditions must be published and distributed to all Competitors before the Race [2].\n\nOutside these exceptions, no part may be replaced or modified, and no setup or configuration changes may be made [1]. Breaching this rule has consequences: the driver must start the Race from the Pit Lane at a Standard Format Competition, and at an Alternative Format Competition the start position depends on when the breach occurs [1].",
+  "gen_s": 3.208382667042315,
+  "usage": {
+   "input_tokens": 767,
+   "output_tokens": 455,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 162
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "d48d467f34d9c6c20bb5f4b76b9586d3b0e42617333a0b85795d76251165e9d4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "A team may change parts on a car in parc ferm\u00e9 only in the limited cases below.\n\n- **Work listed in Appendix B2 or approved by the Technical Delegate under Article B3.5.4.** Article B3.5.3 says no part may be replaced or modified, and no setup or configuration changed, except for this work [1]. Appendix B2 permits some work, including adjusting tyre pressures [3].\n\n- **Survival cell replacement (Appendix B2, Article 11).** A car change is allowed if the original car suffered genuine accident damage or a significant failure or fault, and the survival cell must be changed. All components of the replacement car must match the original in design and be similar in mass, inertia, and function, and the suspension set-up must be the same [3].\n\n- **Work requested by the Technical Delegate (Appendix B2, Article 12.2).** Any other work the Technical Delegate requests is permitted [3].\n\nOther permitted items are a weighing using an allocated tyre set or travel tyres, and fitting exhaust extraction devices while starting the engine in the garage [3]. The Appendix also requires connecting the umbilical and starting telemetry logging for an ERS safety check immediately after covers are removed [3].\n\nChanges that are not listed or approved are a breach. The penalty is a pit lane start: at a Standard Format Competition the driver starts the Race from the Pit Lane, and at an Alternative Format Competition",
+  "gen_s": 4.542425874969922,
+  "usage": {
+   "input_tokens": 1055,
+   "output_tokens": 800,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 340
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "d4428eb9ef814d87b810ce635145772611e588c531ca010476f04f599a308df4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "No, not necessarily. When a Heat Hazard is declared, all components of the Driver Cooling System must be fitted, except for the cooling medium and any items of the driver's personal equipment that form part of the system. At the start of a Sprint or Race, all components must be fitted and functional [2].\n\nHowever, any driver may elect not to wear those personal equipment items. In that case, the other components, including the cooling medium, must still be fitted. The mass difference from the driver's normally used personal equipment must be compensated by 0.5kg of ballast in the cockpit [2]. That ballast may only be fitted after its mass is validated by the FIA Technical Delegate or their nominated representative, and under their direct supervision [1].",
+  "gen_s": 3.270188166992739,
+  "usage": {
+   "input_tokens": 1545,
+   "output_tokens": 447,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 216
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "663c3266520d144109e3e136a88c600fc4d2d7f2f8b959184bf40fa76c26f13f": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "No, not necessarily. A driver must have the cooling system components fitted, but may choose not to wear the personal equipment parts of the system.\n\nWhen a Heat Hazard is declared, all components of the Driver Cooling System must be fitted for the entire Competition, except the cooling medium and any personal equipment items that form part of the system [1]. At the start of any Sprint or Race covered by the declaration, all components must be fitted, functional, and available for the driver to use [1].\n\nHowever, any driver may elect not to wear any items of personal equipment that form part of the system. In that case, all other components, including the cooling medium, must still be fitted. The driver must also add 0.5kg of ballast in the cockpit to compensate for the difference in mass between the personal equipment normally worn and the cooling equipment not worn [1]. That ballast must be validated by the FIA Technical Delegate or their representative and fitted under their direct supervision [2].",
+  "gen_s": 4.022226915927604,
+  "usage": {
+   "input_tokens": 1545,
+   "output_tokens": 622,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 323
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "16be26a2e772c929a126acb4a58ea355086668591d4fa0ed2df8ef0b448d72e2": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Yes, but the car is disqualified rather than the driver. Under Article B3.2.3, the relevant F1 Car may be disqualified if it weighs less than the minimum specified in Article C4.1 when weighed under Articles B3.2.1 or B3.2.2 [1]. There is an exception: the car is not disqualified if the shortfall results from the accidental loss of a component [1].\n\nSeparately, Article B3.2.5 covers breaches of the weighing provisions. In that case, the stewards may drop the driver a number of grid positions they consider appropriate, or disqualify the driver from the TTCS [3]. The passages do not explicitly say whether an underweight car leads to driver disqualification under B3.2.5, so that question is not fully covered.",
+  "gen_s": 3.1444716249825433,
+  "usage": {
+   "input_tokens": 470,
+   "output_tokens": 412,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 164
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "636a9e2c6ca3ef1e9bf7b84d89999813f462781487ba252e3aebe441668dd0ce": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Possibly. The car, not the driver, is the subject of the rule. Under Article B3.2.3, the relevant F1 Car may be disqualified if it weighs less than the minimum specified in Article C4.1 when weighed under Article B3.2.1 or B3.2.2 [1]. The rule does not apply where the shortfall results from the accidental loss of a component of the car [1].",
+  "gen_s": 2.989110874943435,
+  "usage": {
+   "input_tokens": 704,
+   "output_tokens": 296,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 169
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "6f763705a28d7d89161dd3be12dda6f90288d26a9f733dbda12e95a929a7969f": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Yes, changes of driver are allowed after initial scrutineering, but only with the stewards' consent. Under Article B1.7.2, a change proposed after the end of initial scrutineering may be made if the stewards consent. The timing depends on the event:\n\n- At a Competition without a scheduled sprint session, the change must be made before the start of the qualifying session [3].\n- At a Competition with a scheduled sprint session, the change must be made before the start of the sprint qualifying session for a driver taking part in the sprint, or before the start of the qualifying session for a driver taking part in the Race [3].\n\nAdditional changes for force majeure are considered separately [3].\n\nIf a nominated driver is unable to drive after the end of initial scrutineering and the stewards consent to a change, the replacement driver must use the Power Unit and tyres allocated to the original driver [1].",
+  "gen_s": 3.7935641249641776,
+  "usage": {
+   "input_tokens": 731,
+   "output_tokens": 402,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 126
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "e45e9a43baf78b36b4b4d1adfcea4bc7b584dd0e84df4fcd3ede43e84826e0a7": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Yes, but only with the stewards' consent. Under B1.7.2, any change proposed after the end of initial scrutineering must receive the stewards' consent [2]. Timing depends on the format:\n\n- **Without a sprint session:** the change may be made at any time before the start of the qualifying session [2].\n- **With a sprint session:** the change may be made before the start of the sprint qualifying session for a driver taking part in the sprint, or before the start of the qualifying session for a driver taking part in the Race [2].\n\nAdditional changes for reasons of force majeure are considered separately [2].\n\nIf a nominated driver becomes unable to drive after initial scrutineering and the stewards consent to a change, the replacement driver must use the Power Unit and tyres allocated to the original driver [1].",
+  "gen_s": 2.860022332984954,
+  "usage": {
+   "input_tokens": 731,
+   "output_tokens": 319,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 67
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "98d0f8afaa87cebfa82c62af1b82e964153283b437df90bcf201e8aef1c424d8": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "No. Refuelling is only permitted in the Competitors' designated garages [2]. The passages don't address refuelling in the pit lane outside the garage, so the answer rests on that rule.",
+  "gen_s": 3.3256147919455543,
+  "usage": {
+   "input_tokens": 1203,
+   "output_tokens": 205,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 143
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "1db1fba2c5e3d0cd2fdda57b040ccef36e0fe9fc1fa385afecf5018dc4364528": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "No, refuelling is not allowed in the pit lane. Under Article B1.5.9(a), refuelling \"is only permitted in the Competitors' designated garages\" [3].",
+  "gen_s": 2.476680292049423,
+  "usage": {
+   "input_tokens": 936,
+   "output_tokens": 201,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 143
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "0002e4b39533d2c3a0b246ff1ba380f8e34c450ed3a62ce0552fd2c1a7c49a50": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "No. Article B1.6.1 states that competitors may not \"use any powered device to lift any part of an F1 Car in the Pit Lane\" [1].",
+  "gen_s": 1.9758507499936968,
+  "usage": {
+   "input_tokens": 1349,
+   "output_tokens": 50,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "85278596fbb7223f4aa53b608bbd8c0f6e6be343bdc883ce18217cdf428c91aa": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "No. Under Article B1.6.1, competitors may not \"use any powered device to lift any part of an F1 Car in the Pit Lane\" [2].",
+  "gen_s": 2.4578125840052962,
+  "usage": {
+   "input_tokens": 1668,
+   "output_tokens": 132,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 82
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "ae7a8161e42722a06a9d81be406a7bc69ccafc3ec198c3bed227cf5013308cf0": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages don't give a direct answer for races. Article B5.1.5 says tyre blankets are not permitted in the Pit Lane at any time during a Total Time Classified Session (TTCS), and they must be removed before tyres are carried to the pit stop area. The only exception is during a suspension of a TTCS under Article B5.14, which is not included in the passages [1].\n\nThe passages don't state whether a race is a TTCS. Article B5.13.3 is in the TTCS section and refers to the Race Director, but it doesn't say that races fall under TTCS rules [3]. So if a race is a TTCS, tyre blankets would be prohibited in the Pit Lane, apart from any B5.14 suspension exception. If it isn't, the document doesn't cover the question.",
+  "gen_s": 3.550208125030622,
+  "usage": {
+   "input_tokens": 793,
+   "output_tokens": 505,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 253
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "95bd99058baa53e11a7cccb4e42101a39939a9f18398592709daee9c5e69be79": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "No, not while the car is being pushed. Once it is in the Pit Lane Inner Lane, the driver may try to start it. [3] says that when the Race Director deems it safe, marshals push an immobilised car into the Pit Lane Inner Lane, and \"Any driver being pushed from the grid may not attempt to start the F1 Car.\" Once the car is in the Pit Lane Inner Lane, \"the Competitor may then attempt to start the F1 Car.\" If the start succeeds, the car may only enter the Fast Lane after the TTCS has started, and it may join the TTCS [3].\n\nThe driver and mechanics must also follow marshals' instructions throughout the procedure [3].",
+  "gen_s": 4.241188499960117,
+  "usage": {
+   "input_tokens": 1192,
+   "output_tokens": 383,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 159
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a451cabb79f6bcd370f0b03cae71c9ef211ad2c5db739765bec38a622cb74b66": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "No, not while it is being pushed from the grid. Under Article B5.7.1, \"Any driver being pushed from the grid may not attempt to start the F1 Car\" [1]. A driver may attempt to start the car only once it is in the Pit Lane Inner Lane. If the start is successful, the car may enter the Fast Lane only after the TTCS has started, and it may then join the TTCS [1].",
+  "gen_s": 2.9498315000673756,
+  "usage": {
+   "input_tokens": 1415,
+   "output_tokens": 324,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 193
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "37dad7dc6b1d7f49109b7e703bb8bab41eb9f74d5337a3605be839b417a3a946": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The document does not cover whether a team can cover its car in the pit lane when it rains.\n\nThe passages address related points:\n\n- Work on an F1 Car is generally limited to the Inner Lane, and no work may be carried out in the Fast Lane if it is likely to hinder other F1 Cars leaving the Pit Lane [2][3].\n- Competitors may not work on a car or leave equipment in the Fast Lane, except where Articles B5.3.3 and B5.14.4a specifically allow it [3].\n- Competitors may dry the Pit Lane surface, but may not otherwise try to enhance its grip without a problem being identified and a solution agreed by the Race Director [3].\n- Pit Stop Cameras must always be uncovered and operational during any TTCS. This applies to the camera, not the car [2].",
+  "gen_s": 3.6853448749752715,
+  "usage": {
+   "input_tokens": 1347,
+   "output_tokens": 469,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 205
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "95a7429f81d0d817cb9d3cf4dc6b53f98482c7bb9ad12dfc62f3f1b23124aaf4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The provided passages do not cover whether a team can cover its car in the pit lane when it rains. They address related topics: how a car that is pushed from the grid can be worked on in the Pit Lane before starting from its end [1], who may be in the Pit Lane during a suspension and the replenishing of cooling medium during a Heat Hazard [2], and pit lane use during a Safety Car deployment [3].",
+  "gen_s": 3.219187624985352,
+  "usage": {
+   "input_tokens": 979,
+   "output_tokens": 273,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 143
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "4dc822b8297412a5051e1cc9c1c39a7bf223f3db68d55ff5f63695c7d8b68cf4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "During practice, no one under 16 may enter the pit lane unless the FIA authorises it. This applies from 15 minutes before to 5 minutes after every free practice session [1]. The passages don't name any specific people who receive that authorisation, and they don't say whether under-16s may enter the pit lane outside these windows.",
+  "gen_s": 3.312341667013243,
+  "usage": {
+   "input_tokens": 1461,
+   "output_tokens": 351,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 248
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "44ec611cb63300e13b1ef219d3f597100e52dae85fee4cac89c12bb113768e8c": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "During free practice, no one under the age of 16 may enter the pit lane unless the FIA authorises it. This applies from 15 minutes before to 5 minutes after every free practice session [1]. The same rule is repeated in [2].\n\nThe passages do not say who the FIA might authorise.",
+  "gen_s": 2.6834122500149533,
+  "usage": {
+   "input_tokens": 1370,
+   "output_tokens": 276,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 184
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "f7c99f4261da779497315903e9736ab80f015781e4514663f41a60972bfd3ff6": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages don't give a definitive answer. Drive-Through Penalties are named in [3], which sets out how they are served, but none of the passages says which article governs them.\n\n[2] states that appeals may not be made against penalties imposed under Articles B1.9.5 a. to h. Whether a drive-through penalty falls within that range depends on Article B1.9.5, which is not included here. If it does, the stewards' decision could not be appealed. The passages also don't cover the appeal rules in Articles A7.5.1 and A7.5.6, which [2] cross-references.",
+  "gen_s": 4.675836958922446,
+  "usage": {
+   "input_tokens": 1127,
+   "output_tokens": 504,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 321
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "dafaf9106e0eb753a628b95d1000b7be2633ef2737a644dad974b3b935f4cc3a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages don't directly confirm that a Race is covered. The penalty list in [2] applies to \"any TTCS,\" and the passages don't define TTCS or state that a Race is one. Assuming it applies, for an incident during a TTCS the stewards may impose any one of these penalties on any driver involved:\n\n- A 5-second time penalty, served by entering the Pit Lane and stopping in the Designated Pit Stop Position for at least five seconds [2].\n- A 10-second time penalty, served the same way but for at least ten seconds [2].\n- A drive-through penalty, served by entering the Pit Lane and rejoining without stopping [2].\n- A 10-second stop-and-go penalty, served by stopping in the Designated Pit Stop Position for at least ten seconds [2].\n- A time penalty [2].\n- A driver reprimand [2].\n- A Competitor (F1 Team) reprimand [2].\n\nA driver who receives five reprimands, at least four for driving infringements, in the same Championship receives a 10-grid-place penalty. If the fifth reprimand follows an incident during a Race, that penalty applies at the driver's next Competition [2].\n\nStewards have discretion over whether to penalise a driver involved in an incident.",
+  "gen_s": 4.718480957904831,
+  "usage": {
+   "input_tokens": 1397,
+   "output_tokens": 800,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 397
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "acc67a78b3402a1319e51172fce7fbb152ca0ac20bb6bab97710389b3b48acba": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages do not list a specific set of penalties for an incident during the Race. The penalty lists in [1] and [2] apply to incidents during a TTCS and an LTCS respectively, and the Race is not named in either.\n\nThe passages do cover some related points:\n\n- **General discretion:** The stewards decide whether a driver involved in an Incident should be penalised. Unless the stewards consider a driver wholly or predominantly to blame, no penalty is imposed. The stewards may impose penalties set out in the FIA F1 Regulations in addition to or instead of other penalties available under the IS",
+  "gen_s": 5.0625870419899,
+  "usage": {
+   "input_tokens": 1112,
+   "output_tokens": 800,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 613
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "b34a4b0324fd422326d846655094086b2604982b6a9a7262171336444fcda9b1": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "If a driver cannot serve a Stop-and-Go Penalty because they retired from the TTCS, the stewards may impose a grid place penalty on that driver at their next Race [1].",
+  "gen_s": 2.3564378330484033,
+  "usage": {
+   "input_tokens": 1383,
+   "output_tokens": 242,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 181
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "0b6f79d05f45693315de5251c96c957610f5fc381c5158c5ca653d52c94d239e": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "If a driver cannot serve a Stop-and-Go Penalty because they have retired from the TTCS, the stewards may impose a grid place penalty on that driver at their next Race [1]. The passage says \"may,\" so the grid penalty is discretionary rather than automatic.",
+  "gen_s": 2.8286132499342784,
+  "usage": {
+   "input_tokens": 1237,
+   "output_tokens": 276,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 187
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "6078bccea726d50c18b629122d4fd5cd38753616a35be56ab0cdee20b6859373": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Drivers with more than 15 cumulative grid penalties for the Race start behind any other classified driver. Their relative order among themselves is set by their Qualifying classification [2].",
+  "gen_s": 2.2345932909520343,
+  "usage": {
+   "input_tokens": 1651,
+   "output_tokens": 193,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 135
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "c44f16391019dc632b3fd9d9ea36d1335d610cfbb560c7ac50afafb2825d3320": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Drivers with more than 15 cumulative grid position penalties for the Race start behind any other classified driver. Their relative position among themselves is determined by their Qualifying classification [1].",
+  "gen_s": 1.597535999957472,
+  "usage": {
+   "input_tokens": 1931,
+   "output_tokens": 60,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 0
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "14b374c76a4e45433a782fd8910390905d98fb03bf8e11e009beb9f5ba108b79": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Three sets of dry-weather tyres must be electronically returned no later than the covers-on time after Qualifying, as defined in Article B3.4.3 [1]. The passages do not state the exact clock time, so the definition in Article B3.4.3 would be needed for that.",
+  "gen_s": 2.3522691250545904,
+  "usage": {
+   "input_tokens": 1226,
+   "output_tokens": 242,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 153
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "79a6e94f3245d79719ce030f70dbe9e9f4081b81ccfcde79d1c554034b8b958f": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Three sets of dry-weather tyres must be electronically returned no later than the covers-on time after Qualifying, as defined in Article B3.4.3 [1]. This applies during an Alternative Format Competition, which includes Sprint weekends [1].\n\nThe passages do not give the actual time. Article B3.4.3, which defines the covers-on time, is not included.",
+  "gen_s": 2.6324411670211703,
+  "usage": {
+   "input_tokens": 1495,
+   "output_tokens": 293,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 175
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "072082cfd4ef7ffb0c305e721a23050d2a45ce6a083135e7fd24d62338e24e67": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The provided passages do not cover prize money. They address the circulation of instructions and results [1], a limit on track running mileage for testing [2], and podium ceremony obligations for the top three finishers [3]. None of them state what the Race winner receives.",
+  "gen_s": 2.3317834589397535,
+  "usage": {
+   "input_tokens": 721,
+   "output_tokens": 145,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 66
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a7490ffaab1a24444ad15d805d527d39f654e74c8e059744840eeb3021d2215b": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The provided passages do not cover how much prize money the Race winner receives. They describe the podium ceremony obligations for the top three drivers and a constructor representative [1], driver change limits [2], and track running mileage limits [3], but none of them mention prize money.",
+  "gen_s": 2.3934902909677476,
+  "usage": {
+   "input_tokens": 575,
+   "output_tokens": 127,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 44
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ }
+}
