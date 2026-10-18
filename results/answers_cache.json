@@ -1062,5 +1062,461 @@
     "ephemeral_5m_input_tokens": 0
    }
   }
+ },
+ "777e697fec8471ba2769d595015c2cea9e01e57c3f6e5895204dca51f59066a9": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages don't give an exact minimum. Under the general rule, a Sprint's distance is the least number of complete laps that exceeds 100 km [1]. The exact figure would therefore depend on the circuit's lap length, which the passages don't provide.\n\nThe rule has an exception: if the formation lap is started behind the Safety Car, the number of Sprint laps is reduced by the number of Safety Car laps minus one [1]. The passages don't state how far this could take the distance below 100 km.",
+  "gen_s": 3.7224931670000387,
+  "usage": {
+   "input_tokens": 743,
+   "output_tokens": 452,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 293
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "7fe4bdb5c503c5ddd954d6f7decd1e51224e5d089d91066196b9eb6f65a64eb8": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages set the Sprint distance as the least number of complete laps that exceeds 100km [1]. So the distance is always just over 100km, but the exact minimum depends on the circuit's lap length, which the passages don't give. The document does not state a fixed minimum in kilometres.\n\nOne exception applies: if the formation lap(s) start behind the Safety Car, the number of Sprint laps is reduced by the Safety Car's laps minus one [1]. That reduction could take the distance below 100km, though the passages don't say so explicitly.",
+  "gen_s": 4.598201584000208,
+  "usage": {
+   "input_tokens": 743,
+   "output_tokens": 382,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 208
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "c11db678adc8290c944c84cec4fda15e9e7aad05add2a33254087c96a64cb729": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "A Sprint's time limit is **one hour from the start signal**. At that point the leader is shown the end-of-session signal when they cross the Control Line at the end of the lap following the lap during which the hour ended, provided this does not exceed the scheduled number of laps [1].\n\nIf the Sprint is suspended, the length of the suspension is added to the one-hour period, up to a **maximum total Sprint duration of one and a half (1.5) hours**. The same end-of-lap rule and laps-limit proviso apply [1].\n\nThe scheduled distance is the least number of complete laps exceeding 100km, so a Sprint may also end when that distance is completed [3].",
+  "gen_s": 3.1681748750002043,
+  "usage": {
+   "input_tokens": 960,
+   "output_tokens": 405,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 192
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "3a307dcd521c4cca476bf35a0497b6514dec9363cfabc3815bbd70b0ff3f2155": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "A Sprint is normally limited to **one hour** from the start signal. Once that hour elapses, the leader is shown the end-of-session signal when they cross the Control Line at the end of the lap following the lap during which the hour ended, provided this does not exceed the scheduled number of laps [1].\n\nIf the Sprint is suspended, the suspension time is added to the one-hour period, up to a **maximum total Sprint duration of one and a half (1.5) hours**. The same rule applies: the leader is shown the signal at the end of the lap following the one during which the combined period ended, again without exceeding the scheduled laps [1].\n\nThe chequered flag is the end-of-session signal, and it is subject to these Sprint exceptions [3].",
+  "gen_s": 3.87253762499995,
+  "usage": {
+   "input_tokens": 1045,
+   "output_tokens": 483,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 247
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a274598040b644312cd492c46ff32ca7dc3f8b274ba1e193ab34ce9190f6a857": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "If Sprint Qualifying does not take place and the Stewards accept that it cannot, the Sprint grid is based on the Drivers' Championship classification. The grid is set using the same steps as the normal procedure, but each driver's Drivers' Championship classification replaces their Sprint Qualifying classification, and all drivers are treated as classified [1].\n\nIf neither method can be applied, the Stewards decide the grid at their sole discretion [1].",
+  "gen_s": 2.8248210000001563,
+  "usage": {
+   "input_tokens": 1541,
+   "output_tokens": 307,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 162
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "697736a5b3af16f24589aa6cbfe8ecb5d79aaa2b6192ef5b5fead473df60bb88": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The first period of Sprint Qualifying, SQ1, lasts twelve minutes. During that time all F1 Cars may take to the track, and at the end the slowest six are eliminated [2].",
+  "gen_s": 1.9025545409999722,
+  "usage": {
+   "input_tokens": 1273,
+   "output_tokens": 88,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 24
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "0363f8a0a7affb3a326f75b0405471de754809077885a5612ed6e1a824836202": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The first period of Sprint Qualifying (SQ1) lasts twelve minutes. All F1 Cars may take to the track during this period, and at its end the slowest six are eliminated [1].",
+  "gen_s": 2.186160749999999,
+  "usage": {
+   "input_tokens": 1004,
+   "output_tokens": 88,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 24
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "94289a0c048577d9741cc924ac860e621776b8c92cfedcfdf6f47e092176034c": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The second period of Qualifying is Qualifying 2 (Q2), which lasts fifteen minutes. After a seven-minute break, the sixteen remaining F1 Cars take to the track, and the slowest six are then eliminated [2].",
+  "gen_s": 2.2459097920000204,
+  "usage": {
+   "input_tokens": 974,
+   "output_tokens": 113,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 33
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "88ef48cc62f235da6dea65eaf0434b27b72577f4853da0a81a0e377aa9600fb6": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The second period of Qualifying is Qualifying 2 (Q2), which runs for fifteen minutes. It begins after a seven-minute break following Q1 [2].",
+  "gen_s": 3.054898708999872,
+  "usage": {
+   "input_tokens": 844,
+   "output_tokens": 98,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 42
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "09704744eb12ba19afe49659d44842919ede63ec9ee5e26f0469d6c2a534a419": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The message is **\"SAFETY CAR IN THIS LAP.\"** It is sent to all Competitors when the Race Director decides it is safe to end the Safety Car period, and the Safety Car's orange lights are extinguished at the same time. This signals that the Safety Car will enter the Pit Lane at the end of that lap [1].\n\nUnder a rolling start, the message \"ROLLING START\" is sent instead, and it also signals that the Safety Car will enter the Pit Lane at the end of that lap [3]. The passages describe this as a formation-lap procedure rather than the end of a Safety Car period.",
+  "gen_s": 4.088323040999967,
+  "usage": {
+   "input_tokens": 1502,
+   "output_tokens": 411,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 214
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "2447f09a460ba18300bbc5a6f025555f0254309f893008cef6b2295982301af6": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The Virtual Safety Car is used when double waved yellow flags are needed on any section of track and competitors or officials may be in danger, but the circumstances do not warrant the Safety Car [1]. By contrast, the Safety Car is used only if competitors or officials are in immediate physical danger on or near the track, but the circumstances do not require suspending the session [2]. The passages describe these thresholds separately and do not explicitly say the VSC replaces the SC, so the distinction rests on the difference in the danger level described.",
+  "gen_s": 3.187279207999836,
+  "usage": {
+   "input_tokens": 638,
+   "output_tokens": 357,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 189
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "51d5ec80798d477f9b580382cc65e700bf87c94a04238d9c007edd0c3dd9c5e1": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The Virtual Safety Car is used when double waved yellow flags are needed on any section of track and competitors or officials may be in danger, but the circumstances are not serious enough to warrant the Safety Car [1].",
+  "gen_s": 2.4819349169999896,
+  "usage": {
+   "input_tokens": 459,
+   "output_tokens": 151,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 82
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "7ee6ca2b0b525d913b7d866a78a9ab6e0394951f99e7c2f4113fd896b57f508d": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Cars queued behind the Safety Car may be separated by no more than **ten (10) car lengths**. All F1 Cars must form up in a queue behind the Safety Car with that maximum gap [1].\n\nIn poor visibility, the Race Director may, at their sole discretion, increase the maximum gap to **twenty (20) car lengths**. This applies between F1 Cars, including between the first car and the Safety Car, and is announced with the message \"LOW VISIBILITY \u2013 MAXIMUM GAP TWENTY CAR LENGTHS\" [1][2]. The same ten-car-length rule and poor-visibility increase apply to the grid-order formation lap behind the Safety Car [3].",
+  "gen_s": 3.104303458000004,
+  "usage": {
+   "input_tokens": 1602,
+   "output_tokens": 335,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 107
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "8490f9fbe8a87617d5838b1aefcb69e12644ad165b6234464d2899bedd92745e": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Under normal conditions, the cars queued behind the Safety Car may be no more than **ten (10) car lengths** apart. Article B5.13.2 requires all F1 Cars to \"form up in a queue behind the Safety Car no more than the maximum allowable gap of ten (10) car lengths apart\" [2]. The same ten-car-length limit applies on the formation lap [1] and during the resumption procedure [3].\n\nIn poor visibility, the Race Director may, at their sole discretion, increase the maximum allowable gap to **twenty (20) car lengths**. The Race Director must then send the message \"LOW VISIBILITY \u2013 MAXIMUM GAP TWENTY CAR LENGTHS\" to all Competitors [2][3].",
+  "gen_s": 2.843540042000086,
+  "usage": {
+   "input_tokens": 1529,
+   "output_tokens": 322,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 78
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "10d6dfdc131fb981df23d21fa476c9474438aa4f31973f58296be97574148951": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages don't directly answer this. They do not mention free practice or list the sessions where the VSC may be used.\n\nThe rule is in Article B5, under Total Time Classified Sessions (TTCS). It applies when double waved yellow flags are needed on a section of track, and competitors or officials may be in danger, but the circumstances don't warrant a Safety Car [1].\n\nSome provisions are worded as applying only \"when initiated during a TTCS,\" such as the pit lane restriction and the stewards' penalty powers [2][3]. This implies the VSC can also be initiated outside a TTCS, but the passages don't say so explicitly or name the sessions where that applies.",
+  "gen_s": 4.7514246249998,
+  "usage": {
+   "input_tokens": 954,
+   "output_tokens": 398,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 183
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a9d2001f54a9914e798f7970d3266d4ed1bc97d07e6b31a4f93d8f1cce47813f": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages don't address qualifying specifically, but they set out the stewards' general powers over any incident, which would apply there:\n\n- **Decide whether to investigate:** The stewards decide whether to proceed with an investigation. They may also investigate an incident they notice themselves [3]. The Race Director may report incidents or suspected breaches to them [2].\n- **Notify competitors:** If an incident is under investigation, a message naming the drivers involved is sent to all competitors [3].\n- **Restrict drivers' movements:** Provided that message is displayed no later than 60 minutes after the end-of-session signal of a TTCS, the drivers concerned may not leave the circuit without the stewards' consent [3].\n- **Decide on penalties:** The stewards decide whether a driver involved in an incident should be penalised. No penalty is imposed unless it is clear that the driver was wholly or predominantly to blame [1].\n- **Choose the penalty:** They may impose penalties specifically set out in the FIA F1 Regulations, either in addition to or instead of other penalties available under the ISC [1].",
+  "gen_s": 4.148100542000066,
+  "usage": {
+   "input_tokens": 622,
+   "output_tokens": 601,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 245
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "d26e1e606586aa269f9ef7fb9042de60f49e06d42fa29103fb4f3b190dc92d8e": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "During a Lap Time Competition Session (LTCS), the stewards may:\n\n- **Delete a driver's lap time or lap times**, or\n- **Drop the driver a number of grid positions** that they consider appropriate [1].\n\nIncidents are normally investigated after the relevant session, unless it is completely clear that a driver committed a driving infringement [1]. Stewards also decide whether to investigate an incident at all, and they may investigate incidents they noticed themselves [2].\n\nGrid position penalties are served in the Race. The exception is an infringement during Sprint Qualifying, where the penalty is applied to the Sprint grid [1].\n\nWhen deciding whether to penalise a driver involved in an incident, stewards have discretion. No penalty is imposed unless the driver is clearly wholly or predominantly to blame. Stewards may impose penalties set out in the regulations either in addition to or instead of other available penalties [3].\n\nThe passages do not explicitly state that Qualifying is an LTCS, so this answer assumes it is.",
+  "gen_s": 4.5803800839998985,
+  "usage": {
+   "input_tokens": 768,
+   "output_tokens": 671,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 338
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "17b35760fc61843179f85de4de22429acf75dbfb4836f603907832746cf15d5d": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "A grid position penalty for an incident during Sprint Qualifying is served on the grid of the Sprint. Under Article B1.9.4(b), penalties for incidents during a LTCS are normally served in the Race, but \"unless the driving infringement occurred in the Sprint Qualifying, in which case such penalty will be applied to the grid of the Sprint\" [2].",
+  "gen_s": 2.3607093329999316,
+  "usage": {
+   "input_tokens": 1639,
+   "output_tokens": 205,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 84
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "e1d93e05c2305c26952ed6db184bc58dff2502f1d1fd572fb574198704538fba": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "A grid position penalty for an incident in Sprint Qualifying is applied to the grid of the Sprint, not the Race. Normally, such penalties are served in the Race, but if the driving infringement occurred in Sprint Qualifying, the penalty goes to the Sprint grid [1].\n\nThis is consistent with the Sprint grid rules, which add up any penalties received for the Sprint and apply them when forming the Sprint grid [3].",
+  "gen_s": 2.965145082999925,
+  "usage": {
+   "input_tokens": 1179,
+   "output_tokens": 285,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 141
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "4b17ab88942c2dbc44f0e3fba554f87e151a0989f8ffdf1c39bfbd1eb6a240a8": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "There is one free practice session at each Alternative Format Competition: \"Free Practice 1\" (FP1), lasting one hour, on the first day of on-track running [1].",
+  "gen_s": 2.2494396249999227,
+  "usage": {
+   "input_tokens": 710,
+   "output_tokens": 109,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 55
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9be0ad5c141762225c56238ed61c19716d33186d2bd4c2a25d039f8b3a0cba13": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The second free practice session (FP2) lasts **one and a half (1.5) hours** when additional tyre specifications are provided for ICTT. Otherwise, FP2 is one hour. [1]",
+  "gen_s": 2.464144957999906,
+  "usage": {
+   "input_tokens": 1210,
+   "output_tokens": 209,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 144
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "792adbbd6f92bb75ef6e27ad58d2db0dd422cd9ed82788ee3b4e20f936374849": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The second free practice session (FP2) lasts **one and a half (1.5) hours** when additional tyre specifications are provided for ICTT. Normally it lasts one hour. [1]",
+  "gen_s": 2.083969957999898,
+  "usage": {
+   "input_tokens": 753,
+   "output_tokens": 132,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 71
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9b4722e26a9aef5e743eaadf48d2d4f612fd61e8e20d41ed448e4ad887b59715": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "A driver must return one set of dry-weather tyres no later than two hours after the end of the Sprint. If the driver used a set during the Sprint, that returned set must be the one with the highest number of laps completed in the Sprint [2].",
+  "gen_s": 2.2739607920000253,
+  "usage": {
+   "input_tokens": 1486,
+   "output_tokens": 181,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 106
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "6c3840bbef6eca4fa800acc010bffc8089524fc25404363c323329afa7088e42": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "A driver must return one set of dry-weather tyres within two hours after the end of the Sprint [1]. If the driver used a set during the Sprint, the returned set must be the one with the highest number of laps completed in the Sprint [1].\n\nThe passages do not describe any intermediate or wet-weather tyre that must be returned within two hours of the Sprint ending.",
+  "gen_s": 3.2335824580000008,
+  "usage": {
+   "input_tokens": 1137,
+   "output_tokens": 328,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 212
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
  }
 }
