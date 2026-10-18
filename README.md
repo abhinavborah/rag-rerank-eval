@@ -88,6 +88,7 @@ queries again, so re-running the notebook does not overwrite a record. To redo a
 | `results/explore_log.jsonl`, `results/explore_score_log.jsonl` | the 14 follow-up queries |
 | `results/pool50_log.jsonl` | scores for the pool of 50 analysis |
 | `results/screen_log.jsonl`, `results/screen_run_log.jsonl` | the screened batch |
+| `results/rank_shift_summary.md` | rank-shift tables for the main cases and the model-written questions, the pool of 50 table, and answer excerpts, built from the logs |
 | `results/gen_queries.json`, `results/questions_cache.json`, `results/gen_screen_log.jsonl`, `results/gen_run_log.jsonl` | the model-written question set |
 
 ## Results
