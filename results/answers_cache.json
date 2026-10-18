@@ -1537,5 +1537,727 @@
     "ephemeral_5m_input_tokens": 0
    }
   }
+ },
+ "10838bf2826b77e671659091fc2c9886f82fabc999063e262c8d0d326171811c": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Overtaking behind the Safety Car is allowed in two situations, and in both the green light on the Safety Car is the signal that governs it.\n\n**1. Cars between the Safety Car and the leader.** When the Race Director instructs, the green light on the Safety Car is illuminated, and F1 Cars between it and the leader are required to pass it. [3] Once all of those cars have passed, the green light is extinguished, and overtaking is no longer permitted. [3] The cars that have passed then continue at reduced speed, without overtaking, until they reach the queue behind the Safety Car. [3]\n\n**2. Lapped cars.** If the Race Director considers it safe, the message \"LAPPED CARS MAY NOW OVERTAKE\" is sent, and the green light illuminates to tell lapped F1 Cars that they must pass the lead-lap cars and the Safety Car. [3] This applies only to cars that were lapped when they crossed the Control Line at the end of the lap on which they first crossed the Saf",
+  "gen_s": 4.529428207999899,
+  "usage": {
+   "input_tokens": 1298,
+   "output_tokens": 800,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 473
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "103246894ce372037612a503623b85d083c01adf6437b41540a3786b21bb00ba": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "**Overtaking during the formation lap(s):** Overtaking is allowed only in limited cases, including when a car is delayed leaving the grid and cars behind cannot avoid it without unduly delaying the field, when a car slows with an obvious problem, or when a car is delayed during the formation lap [1]. Even then, drivers may overtake only to restore the original starting order or the order at the Pit Lane exit when the formation lap started [1]. In a standing start, a delayed driver may overtake to regain the original starting position only before crossing the first safety car line on the lap the Safety Car returns to the pits. If they f",
+  "gen_s": 4.57531654200011,
+  "usage": {
+   "input_tokens": 1591,
+   "output_tokens": 800,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 602
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "6df099b89ad4f4d68c591fa984d545c53fb6357b11810c5ffa4f833afb17a483": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The passages don't describe a \"halted start\" as such, but they cover the two procedures that follow the formation laps, standing and rolling starts. Under those procedures:\n\n**Where the cars go:**\n- **Standing start:** Once the Safety Car has entered the Pit Lane, all F1 Cars except those required to start from the Pit Lane can return to the grid and take their grid positions. Cars required to start from the Pit Lane must re-enter the Pit Lane and may start once the Pit Lane exit opens after the start. [2]\n- **Rolling start:** Drivers keep moving at a steady pace until the Safety Car enters the Pit Entry Road, with no erratic acceleration or braking and no car driven alongside another car ahead. [3]\n\n**Order:**",
+  "gen_s": 5.01146666600016,
+  "usage": {
+   "input_tokens": 1748,
+   "output_tokens": 800,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 552
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "aa6ba75aa64ef71fbfc742cf83dd00297862b1009fc8339a1063e59a75c03653": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "If the start is suspended after the formation laps behind the Safety Car have begun, all F1 Cars must enter the Pit Lane behind the Safety Car [1].\n\n- **First car:** It should go directly to the Pit Lane exit, unless the Race Director has defined a different location in the Pit Lane [1].\n- **Other cars:** They form up in a line behind the first car, in the order they entered the Pit Lane behind the Safety Car when the start was suspended. All cars must stay in the Fast Lane [1].\n\nIn exceptional circumstances, if the pit entry is closed for safety reasons before all F1 Cars have returned, the cars must proceed slowly to the starting grid instead. The first car to arrive on the grid takes pole position, and the others fill the remaining positions in the order they arrive [1]. In either case, the procedures in Article B5.15 must then be followed [1].",
+  "gen_s": 3.9042741249995743,
+  "usage": {
+   "input_tokens": 1489,
+   "output_tokens": 533,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 244
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a179a740f5d065f06bcc6e698d7b022317d1998f226fa23a07918c2331a65d05": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The provided passages do not answer this. None of them states how many people working on the cars a team may have at the circuit during a race weekend, or whether that limit applies on race day.\n\nThe closest passage is Article B9.5.3 [3]. It gives each Competitor a number of exceptions to the Article B9.5 requirements during the Championship: six for Restricted Period One, five for Restricted Period Two, and four for Restricted Period Three. It also says these exceptions may not be used consecutively during a single Competition. However, it does not define the Article B9.5 requirements themselves, so it cannot tell you the headcount limit. For a breach, both drivers must start the Race from the Pit Lane under Article B5.3.\n\nArticle B1.7.1 [2] limits each Competitor to four drivers in Races during a Championship, but it concerns drivers, not personnel.\n\nTo find the headcount rule and whether it applies on race day, you would need Article B9.5 itself, which is not included here.",
+  "gen_s": 3.753634874999989,
+  "usage": {
+   "input_tokens": 1014,
+   "output_tokens": 478,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 164
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "87754c316901c020d6f90c12ab9dd03e20625ae64050849a63aac6d361fcc8fc": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "A team may have at most **60 Operational Personnel** at the circuit, meaning people associated in any way with operating the F1 Cars within the circuit. This applies from 29 hours before the scheduled start of FP1 until 2 hours after the start of the Race [1].\n\n**On race day, the limit still applies only in part.** It is lifted from 45 minutes before the start of the first formation lap until 15 minutes after the scheduled start of the Race, when the number of Operational Personnel is unlimited [1]. Before that window opens, the 60-person cap still applies.\n\nA separate restriction covers the signalling area. Only twelve team members per Competitor are permitted there during free practice, qualifying, sprint qualifying, sprint, and the Race [2]. This is a limit on the signalling area specifically, not on total personnel at the circuit, and the passages do not say whether it is affected by the unlimited window.",
+  "gen_s": 3.933651125000324,
+  "usage": {
+   "input_tokens": 1037,
+   "output_tokens": 589,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 296
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "7b0a985f1f362a486d4cd61a437adcc3fe4605bb1cef11edd523222af35fb55a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The passages don't give a fixed delay for the Safety Car. Under Article B5.13.6, when the Race Director decides to end the Safety Car period, the \"SAFETY CAR IN THIS LAP\" message is sent and the Safety Car's orange lights are extinguished. The green flag and/or green light panel is shown at the Control Line as the leader approaches it, and this happens on the final lap, not after a set number of seconds [2].\n\nThe 10 to 15 second delay before green lights and the 30 second switch-off apply to the Virtual Safety Car, not the Safety Car. For the VSC, the \"VSC\" lights turn green between 10 and 15 seconds after the \"VSC ENDING\" message, and go out 30 seconds after that [1].",
+  "gen_s": 4.054709125000045,
+  "usage": {
+   "input_tokens": 1360,
+   "output_tokens": 552,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 306
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "bb497eb4b53f3284a189aea13fe3a2216728866740bdad664d4e90209ab77300": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The passages don't give this timing for the Safety Car. For the Safety Car, the Race Director's decision triggers the message \"SAFETY CAR IN THIS LAP,\" and the orange lights on the Safety Car are extinguished. That passage doesn't mention green lights or a timing for them [2].\n\nThe 10-15 second and 30-second timings apply to the Virtual Safety Car. After the Race Director decides to end the VSC procedure and sends \"VSC ENDING,\" the \"VSC\" light on the FIA light panels can turn green at any time between 10 and 15 seconds later. After 30 seconds, the green lights are extinguished [1][3].",
+  "gen_s": 3.5349407919998157,
+  "usage": {
+   "input_tokens": 1048,
+   "output_tokens": 442,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 229
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a6f17abc549c9a4192e8ea1a367eda0d1f001280dfa40feed6bff593073a31d0": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The passages do not cover this. None of them address qualifying being cancelled or stewards deciding a session cannot run.\n\nThe closest related rule is the aborted start procedure. If the Race Director aborts a start after the formation lap has begun, cars starting from the grid stay in their allocated grid positions, and cars starting from the Pit Lane stay in their position in the Fast Lane [1]. When a new start time is known, the starting procedure restarts at the ten-minute signal [1]. This applies to an aborted start, not to a cancelled session, so it may not apply to your situation.",
+  "gen_s": 3.1172880829999485,
+  "usage": {
+   "input_tokens": 999,
+   "output_tokens": 381,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 195
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9c6ec4a9ab03fac3107c6baec619e458519eb0970fc1516ff5922100c119c2b4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The passages do not say what happens to the starting order if qualifying is cancelled and the stewards agree it cannot run.\n\nThey do cover related points:\n\n- Race Director authority: The Race Director has overriding authority over stopping qualifying \"if they deem it unsafe to continue,\" and may propose timetable changes to the stewards [3]. The passages do not say what grid results from a stopped or cancelled session.\n- Ordering of unclassified drivers: Drivers who are unclassified in the Race Qualifying classification because they were eliminated in Q1 beyond 107% (unless the track was declared wet), or who set no valid lap, are ordered by their position in the last LTCS in which all such drivers took part [1]. Drivers disqualified from qualifying are placed behind them [1]. This applies to unclassified drivers within a running session, not to a cancelled one.\n- Formation lap: Article B5.6.4 covers overtaking to re-establish the starting order on the formation lap, not how that order is set when qualifying does not run [2].",
+  "gen_s": 4.19814687500002,
+  "usage": {
+   "input_tokens": 1246,
+   "output_tokens": 592,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 258
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "65df7096aa3f28adfe0bb9c4a9ca7a270e894d2b8ff87f5a7875502b3e33314f": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The provided passages do not say who, besides drivers, is allowed on the track or in the pit lane during practice, qualifying, or sprint sessions.\n\nPassage [1] says that pit lane and track discipline and safety measures are the same for free practice, qualifying, sprint qualifying, sprint, and the Race, unless the regulations say otherwise. It does not list the permitted personnel. Passage [3] limits use of the circuit for non-competition purposes to times after the final practice session of each day, after Sprint Qualifying and Qualifying, and on race day before the Pit Lane exit opens. It also does not name who may be present during sessions. Passage [2] concerns drivers whose cars stop and receive physical assistance, but it does not address other people.",
+  "gen_s": 3.588583708999977,
+  "usage": {
+   "input_tokens": 545,
+   "output_tokens": 423,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 180
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "8566967b04f8e820d1847cad5680804e851d04e87a4d2387d537ae4181994b5b": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Besides drivers, the following are allowed on the track, the Pit Entry Road, or the Pit Exit Road during the period from 15 minutes before to 5 minutes after each free practice, qualifying, and sprint qualifying session [2]:\n\n- **Marshals or other authorised personnel**, when carrying out their duties [2].\n- **F1 Team personnel**, when pushing an F1 Car, or when clearing equipment from the grid after all F1 Cars able to leave have left the grid on the formation lap [2].\n- **F1 Team personnel**, when assisting marshals to remove an F1 Car from the grid after the start of the TTCS [2].",
+  "gen_s": 3.4992898750001586,
+  "usage": {
+   "input_tokens": 704,
+   "output_tokens": 446,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 230
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9ae2b2b919df4b5e6b40fb0e8c943f6dfa6161fa4f59492d0ff57478739d0e0d": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The passages don't mention Q1 or Q2 by name, but they do explain how the race grid is set from Qualifying results. Drivers knocked out in Q1 or Q2 would be placed according to their overall Qualifying classification, the same way as every other classified driver.\n\n- **Starting point:** The race grid is formed from the Qualifying results and classification process, and any race penalties are then applied [2].\n- **Penalised drivers (15 or fewer grid penalties):** Each gets a temporary position equal to their Qualifying classification plus their grid penalties. Ties are resolved by Qualifying classification [2].\n- **Unpenalised classified drivers:** They fill any remaining open positions in Qualifying order [2][1].\n- **Penalised drivers with temporary positions:** They move up to fill any gaps left after unpenalised drivers are placed [1].\n- **Drivers with more than 15 cumulative grid penalties:** They start behind all other classified drivers, ordered by Qualifying classification [1].\n- **Unclassified drivers allowed to take part by the Stewards:** They start behind all classified drivers [1].",
+  "gen_s": 5.052187582999977,
+  "usage": {
+   "input_tokens": 1938,
+   "output_tokens": 733,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 363
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "6700539670934e21beddb9050954ba6b46d1ef81161daaef828ae31bff29395d": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Drivers eliminated in Q1 and Q2 are placed by their fastest lap time in the session where they were knocked out:\n\n- **Eliminated in Q2 (positions 11\u201316):** These drivers are ordered by their fastest Q2 lap time, with the fastest in 11th place. [2]\n- **Eliminated in Q1 (positions 17\u201322):** These drivers are ordered by their fastest Q1 lap time, with the fastest in 17th place. [2]\n\nSome tie-break and edge rules also apply:\n\n- **Identical times:** The driver who set the time first gets the higher position. [2]\n- **Multiple drivers with no time in Q2:** Drivers who attempted a flying lap rank ahead of those who did not start one, and those who never left the pits rank last. Within each group, the order follows their previous session classification. [2]\n- **Unclassified drivers:** Drivers who were eliminated in Q1 with a best lap over 107% of the fastest Q1 time (unless the track was declared wet), or who set no valid lap, or who were disqualified from qualifying, are placed unclassified. Those unclassified for the first two reasons are placed by their last fully participated session's order, and those disqualified are placed behind them. [1]\n- **Valid laps only:** Only laps started and completed by crossing the Control Line on the track count. [1][3]\n\nThe number of drivers eliminated depends on the field size. The procedures assume 22 cars, and",
+  "gen_s": 5.230007208000188,
+  "usage": {
+   "input_tokens": 1485,
+   "output_tokens": 800,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 327
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "c2776d3ea31f1dcb73e78ed350dd57dc947683cc989ef89f30af95b2f8d99298": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The provided passages do not cover this. None of them address stop-and-go penalties, stalled engines, or whether mechanics may help restart a car in the pit lane.\n\nThe closest material is limited:\n\n- Article B5.7.3 covers the pit lane start procedure, where cars must keep their engines running while queuing at the pit lane exit [1]. It does not address restarting a stalled engine.\n- Article B5.13.3 covers pit lane use during a Safety Car deployment and a drive-through penalty for failing to enter the pit lane when required [2]. It does not mention stop-and-go penalties or stalls.\n- Appendix B2 lists permitted parc ferm\u00e9 works, such as safety checks, fluid work, and repairs [3]. It does not mention restarting an engine, and the passages don't establish whether a car serving a penalty is in parc ferm\u00e9.\n\nFor an answer on this scenario, check the full regulations or ask the race stewards or FIA officials.",
+  "gen_s": 4.398155332999977,
+  "usage": {
+   "input_tokens": 1425,
+   "output_tokens": 568,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 259
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "ecc2c26685dd1a25ac14419cb18ff9c05869e69f5c975bf14993ae43153911a6": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "No. If the engine stops and you cannot restart it unaided, any work needed to restart it may only be carried out after the time penalty period has elapsed [1]. While the car is stationary in the Pit Lane for a Stop-and-Go Penalty, it may not be worked on, and touching the car or driver by hand, with tools, or with other equipment all count as working [1].",
+  "gen_s": 2.6199931669998477,
+  "usage": {
+   "input_tokens": 1249,
+   "output_tokens": 239,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 120
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "5ec2c7cf3b9b78d02a1facd5677752caa65a2a95d94cb03c2d5671629d83e149": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The provided passages do not cover this. They don't address parc ferm\u00e9, when a car is locked away after leaving the pit lane in qualifying, or what happens if a car never leaves the pit lane.\n\nThe passages do cover some related topics:\n\n- **Circuit use:** Unless the FIA gives written permission, the circuit may be used for non-competition purposes only after the last free practice session each day, after Sprint Qualifying, after Qualifying, and on race day at least one hour before the Pit Lane exit opens for reconnaissance laps [1].\n- **Pit lane layout:** The Pit Entry Road runs from the first safety car line to the start of the Pit Lane, and the Pit Exit Road runs from the end of the Pit Lane to the second safety car line [2].\n- **Restricted Period:** This is defined as a period when team personnel associated with operating the F1 Cars are not permitted within the circuit confines, but the passage does not say when it applies [2].\n- **Safety car pit lane use:** If the Race Director orders the pit lane to be used during a safety car deployment, a drive-through penalty applies to any driver who fails to enter it [3]. This applies only to safety car situations, not to qualifying.\n\nFor the parc ferm\u00e9 rules you're asking about, you'd need the section of the regulations that covers parc ferm\u00e9 and qualifying.",
+  "gen_s": 4.46564620800018,
+  "usage": {
+   "input_tokens": 1266,
+   "output_tokens": 659,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 225
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "416c83f73eda5b6302735e8c5c8ec1444bacb17e4a77353520efdc90bd63de8a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Once your car first leaves the pit lane during qualifying, it is deemed to be in parc ferm\u00e9 from that moment until the start of the Race [1].\n\nIf it never leaves the pit lane during qualifying, it is deemed to be in parc ferm\u00e9 at the end of Q1 [1].",
+  "gen_s": 2.2632646669999303,
+  "usage": {
+   "input_tokens": 1084,
+   "output_tokens": 177,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 87
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "70f68f5806a62a2ad1cc2050a3f004ec55d56be0006694d82e9cad4370fa33dc": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The passages don't directly say which older parts a team may use in pre-season testing. The pre-season tests in [3] (the Private Collective Testing and the two Public Collective Testing sessions) set out running days and car limits but say nothing about component age.\n\nThe closest rules concern the **Post-Season Test**, which takes place after the last race of the championship and so falls before the next season's first race:\n\n- The car for tyre testing \"must only use components and software of a specification that have been used in at least one (1) Race or TCC during the current year or the year preceding the year of the Champion",
+  "gen_s": 5.485104458000023,
+  "usage": {
+   "input_tokens": 1816,
+   "output_tokens": 800,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 626
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "94a93d0fe28c7a79d60ff055dd612daf4e61705a2ff11fe3f5b2005e28f5ca68": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The provided passages don't cover testing before the first race of the season. The closest rule, Article B11.4.10c, applies only to tests run between the end of the first Competition and 31 December [1]. It lets a team use Mule Cars that meet one of two conditions:\n\n- **Option i:** a car built to the current Championship's technical regulations, using only components and software that were used in at least one Race or TCC in the current year or the four years before it [1].\n- **Option ii:** a car built to the technical regulations of any of the four calendar years before the Championship year, using only components and software that were used in at least one Race or TCC in those four years [1].\n\nThe other passages cover the Post-Season Test, which takes place after the last Competition of the season. Its F1 Cars may only use components used in a Race or TCC in the current year or the preceding year [2]. The Out-of-Competition Tyre Testing and TPC rules in [3] restrict test parts and component changes, but they don't set out which older parts may be used before the first race.",
+  "gen_s": 4.365418999999747,
+  "usage": {
+   "input_tokens": 1637,
+   "output_tokens": 659,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 340
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "0e97ff0d5313573a54c527c245f7d4a6e9b37cb93dfe5a8ed4e8b06dcd483bf6": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Your mechanics must wait until the penalty's time period has elapsed. Under the stop-and-go rules, an F1 Car stationary in the Pit Lane for a Stop-and-Go Penalty may not be worked on. Touching the car or driver by hand or with tools counts as working. If the engine stops and the driver cannot restart it unaided, any work needed to restart it may only be carried out after the time penalty period has elapsed [1].\n\nThe passage does not state the length of that period, so I can't give you a specific number of seconds.",
+  "gen_s": 3.729851291999694,
+  "usage": {
+   "input_tokens": 1165,
+   "output_tokens": 380,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 208
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "c519d315b880a1fd1a36d5320d944393aa65d9fde6caaac11e398f8585de7305": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Under the rules, your mechanics may not work on the car until the penalty's time period has elapsed, but only if the engine stops and the driver cannot restart it unaided. Touching the car or driver by hand, with tools, or with other equipment all count as working. [2]\n\nThe passages do not state the length of the time penalty period for a stop-and-go penalty in the pit lane. They give fixed time additions for other situations, such as when a penalty is served after a TTCS ends or during the last three laps, but those are added to the driver's elapsed time, not used as the waiting period. [1][2]",
+  "gen_s": 3.516853333000199,
+  "usage": {
+   "input_tokens": 1406,
+   "output_tokens": 455,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 269
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "fb51be6978b7e7b1ff4b908e0523985a59883b6efaf4008725faf42205bc75cc": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The passages cover one tyre-related running window, the Post-Season Test, and some related items, but not a complete set of tyre-check rules.\n\n**Post-Season Test (tyre specifications for the following season):**\n- **When:** One test, one day long. It must start no less than 36 hours after the end of the last Competition of the Championship [2].\n- **Where:** On the circuit where the last Competition of the Championship was held [2].\n- **Car use:** One of the two F1 Cars each Competitor must run is for providing Competitors with the chance to test the tyre specifications to be used the following season. That car must use components and software that have been used in at least one Race or TCC in the current year or the preceding year, though this does not apply to Power Units or their associated software [2].\n- **Sensors:** Additional sensors may be fitted only to measure tyre state or performance. They must be agreed in advance with the Tyre Supplier and the FIA, and the data must be shared with the Tyre Supplier [3].\n\n**Wet-weather tyre testing:** One day may be set aside if the Tyre Supplier requests it. Arrangements are made in consultation with all Competitors, the Commercial Rights Holder and the FIA [2]. The passage gives no time or location limits for this day.\n\n**Out-of-Competition Tyre Testing",
+  "gen_s": 4.948637249999592,
+  "usage": {
+   "input_tokens": 1662,
+   "output_tokens": 800,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 379
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "02c00767fc64e7369c7dec0d2d2640abeeee758ac0fd362a17993c7be58383b4": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The provided passages don't fully answer this. They don't set out when Out-of-Competition Tyre Testing may take place, and they don't give any time or location limits for it. The full text of Article B11.2.7d, which defines that testing, isn't included.\n\nHere is what the passages do say:\n\n- **Permitted cars:** For Out-of-Competition Tyre Testing, the car on track must be a Current Car, a Previous Car, or a Mule Car. Any other type of automobile is not allowed [2].\n- **Set-up changes:** Mechanical set-up and driver control changes are allowed only if they are necessary to evaluate the tyres or complete the tyre test. These changes must be agreed in advance with the tyre supplier [3].\n\nThe passages also describe a different type of running, Testing for TMC (B11.4.10). That testing is limited to a maximum of ten car days between 1 January and 31 December, organised by the FIA. It also has circuit-related conditions for testing before a Competition [1]. These limits apply to TMC testing and should not be assumed to apply to tyre testing. If you need the timing and location rules for tyre checks, you'll need Article B11.2.7d or the relevant section of the regulations.",
+  "gen_s": 4.52296750000005,
+  "usage": {
+   "input_tokens": 1098,
+   "output_tokens": 669,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 275
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "27006111241932998246d552dda0c0ca74cc452caefdbd0db8f856ddc87aa6c0": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Under the resumption rules, drivers may overtake during a rolling start only to re-establish the resumption order, and only before the message \"ROLLING START\" is sent to all competitors [1]. This applies only in the permitted cases: a Fast Lane car leaving its position with an obvious problem, a Pit Lane overtake, a car slowing with an obvious problem, or a car delayed during the lap(s) behind the Safety Car [1].\n\nIf a driver does not re-establish the order before that message, they must resume the TTCS from where they are [1]. The formation-lap rules use the same cutoff for a rolling start [2].",
+  "gen_s": 3.3006640829999014,
+  "usage": {
+   "input_tokens": 1439,
+   "output_tokens": 411,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 211
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "c57bfca5481a0298457d9850aae22e007d3115276a5634cffacc4b446123a653": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Under a rolling start, drivers may not overtake again until they pass the Control Line for the first time after the Safety Car has entered the Pit Entry Road to return to the Pit Lane [1][3]. The TTCS starts when the leading car crosses that line [1][3].\n\nUntil then, drivers must keep a pace with no erratic acceleration or braking, and no part of an F1 car may be driven alongside any part of a car ahead [3].",
+  "gen_s": 2.8773445420001735,
+  "usage": {
+   "input_tokens": 1633,
+   "output_tokens": 312,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 169
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9fbb10e0310a3547ef2c3fd30a664c0394d6f72084205a14d3a9bc605b5ed3b6": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Normally, cars queued behind the Safety Car must stay no more than ten car lengths apart, and the first car must stay less than ten car lengths behind the Safety Car [2].\n\nYes, the limit changes in poor visibility. At the sole discretion of the Race Director, the maximum gap between F1 cars, including between the first car and the Safety Car, can increase to twenty car lengths. When this happens, the message \"LOW VISIBILITY \u2013 MAXIMUM GAP TWENTY CAR LENGTHS\" is sent to all competitors [2][3].",
+  "gen_s": 2.895857542000158,
+  "usage": {
+   "input_tokens": 1613,
+   "output_tokens": 345,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 160
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "6ca3e4da060dc54a0535cdc50c933051e99666419e3f86934a0f3ddcd7bf52c1": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Normally, cars queued behind the Safety Car must be no more than **ten car lengths apart**. Article B5.13.2 requires all F1 Cars to \"form up in a queue behind the Safety Car no more than the maximum allowable gap of ten (10) car lengths apart\" [2].\n\n**Yes, the limit changes in poor visibility.** At the sole discretion of the Race Director, the maximum gap between F1 Cars, including between the first car and the Safety Car, may be increased to **twenty car lengths**. Competitors are notified with the message \"LOW VISIBILITY \u2013 MAXIMUM GAP TWENTY CAR LENGTHS\" [2]. The same provision applies during the resumption procedure [3] and the formation lap [1].",
+  "gen_s": 3.363252958999965,
+  "usage": {
+   "input_tokens": 1540,
+   "output_tokens": 401,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 153
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "1e60d2968eaff875ccb1f84688b3fc31add6e6bc4384e60a91075b6ac66df224": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Generally, no. A driver with a Drive-Through or Stop-and-Go Penalty may not serve it while the Virtual Safety Car procedure is in use or after the Safety Car has been deployed, with one exception: if the driver was already in the Pit Entry Road or Pit Lane for the purpose of serving the penalty [1]. Any Control Line crossings made behind the Safety Car or during the VSC are added to the driver's maximum allowed crossings [1].\n\nThe passage does not explicitly name the two penalty types in that clause, but the following clause refers to \"either of these two (2) penalties,\" which indicates that it covers Drive-Through and Stop-and-Go Penalties [1].",
+  "gen_s": 3.9282644579998305,
+  "usage": {
+   "input_tokens": 1720,
+   "output_tokens": 546,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 319
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "565a2254991fe96bbbe2c039fdb24fdf0c383b21e95e685ab04345a406c80b4b": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "No, not in general. A driver with a Drive-Through or Stop-and-Go Penalty may not serve it while the VSC procedure is in use or after the Safety Car has been deployed, with one exception: a driver who was already in the Pit Entry Road or Pit Lane for the purpose of serving the penalty may do so [1][3].\n\nAny Control Line crossings a driver makes behind the Safety Car or during the VSC procedure count toward the maximum number of crossings allowed for serving the penalty [1][3].",
+  "gen_s": 3.236885499999971,
+  "usage": {
+   "input_tokens": 1777,
+   "output_tokens": 374,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 205
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9a052efd7d502c4b7c210181585363e0ce9bdef87322bf426cb725ed2d8563d2": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The passages don't say how long a team has to receive a decision about one of its drivers, or whether it must confirm receipt.\n\nThe closest provision is about notifying competitors of an investigation, not of a decision. Under B1.9.2, if stewards are investigating an incident, a message identifying the drivers involved must be sent to all competitors. That message must be displayed no later than 60 minutes after the end-of-session signal of a TTCS, and until it is displayed, the drivers concerned may not leave the circuit without the stewards' consent [1]. This sets a deadline for the investigation notice, not for a decision or any confirmation.\n\nThe other passages don't address this either. B1.7.3 covers the 7-day notice a competitor must give the FIA about a substitute driver [2], and B3.1.4 covers scrutineers' power to check eligibility, including up to one hour after covers are fitted or removed [3].",
+  "gen_s": 4.070267749999857,
+  "usage": {
+   "input_tokens": 1331,
+   "output_tokens": 556,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 265
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "7fd797cf6761bf95d4447014ab5a2cf746e7ed1a22345d57c60309667eda695a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Any decision or communication concerning a particular Competitor should be given to them within twenty-five (25) minutes of the decision, and receipt must be acknowledged [3]. So yes, the team must confirm it received the decision.",
+  "gen_s": 2.3499760419999802,
+  "usage": {
+   "input_tokens": 686,
+   "output_tokens": 147,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 75
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "8caa806c89f8ab07cbfae659ef14a7b6aac55ef0e9a1b4a728077b3911db42e8": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "**Cars per day:** For the pre-season tests, each Competitor may use only one F1 Car on each day. This applies to both the Pre-Season Private Collective Testing [3] and the Pre-Season Public Collective Testing [3]. A separate Post-Season Test allows two F1 Cars per Competitor, but it is a single day held after the last Competition [1].\n\n**Hours:** The passages do not specify the hours a testing day covers. The Pre-Season Public Testing refers to \"running times as specified in Article B11.2.1,\" but that article is not included in the provided text [3]. The Private Testing passage says a day of track running counts from the moment a car first leaves the Pit Lane, but it does not give a start or end time [3].",
+  "gen_s": 3.6942845829998987,
+  "usage": {
+   "input_tokens": 1847,
+   "output_tokens": 493,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 255
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "5558efb9195033d6313e1ff5ce0a893c6ff5c8773f176af939a7d099bfcd8606": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Under the TPC (private testing) provisions, each Competitor may have no more than one car available and may use only one car on any testing day [1]. A testing day is a single continuous nine-hour period between 09:00 and 19:00 [1]. The passages don't say exactly where within that 10-hour window the nine hours must fall.\n\nFor collective testing under TCC, each Competitor may use only one F1 Car on each day [2][3].",
+  "gen_s": 4.33649612499994,
+  "usage": {
+   "input_tokens": 1420,
+   "output_tokens": 527,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 390
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "c0b8a125b32d9131ae7503590b3f3c034d9fe6533729d836fc0a9e775e76bc5e": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "The passages don't say that the Safety Car heads back to the pits once the leader is behind it. [1] covers how lapped cars overtake the Safety Car and how the green light is extinguished, but it doesn't address when the Safety Car returns to the pits.\n\nThe only pit-entry timing given is for the end of a race. If the Safety Car is still deployed at the beginning of the last lap, or is deployed during the last lap, it enters the Pit Lane at the end of that lap, unless the Race Director requires its continued presence after the end-of-session signal [3].",
+  "gen_s": 4.242479000000003,
+  "usage": {
+   "input_tokens": 1221,
+   "output_tokens": 493,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 313
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "482fdeb356603179c01c66de77e10a2e29c2adbaf20de4f55c7fea7641410f51": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "Once the leader is behind the Safety Car, it does not return to the pits straight away. It must stay out at least until the leader is behind it and all remaining F1 Cars are queued behind it [1].\n\nAfter the \"LAPPED CARS MAY NOW OVERTAKE\" message has been sent, the Safety Car returns to the pits at the end of the following lap, unless the Race Director considers its presence still necessary [1].\n\nThe passages also describe a separate withdrawal signal. When the Race Director decides it is safe to end the Safety Car period, the \"SAFETY CAR IN THIS LAP\" message is sent and the orange lights are extinguished. The Safety Car then enters the Pit Lane at the end of that lap [2].\n\nThe passages do not give the full conditions for sending the \"LAPPED CARS MAY NOW OVERTAKE\" message, which are in Article B5.13.4c and are not included here.",
+  "gen_s": 4.359056292000332,
+  "usage": {
+   "input_tokens": 1143,
+   "output_tokens": 638,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 342
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "f85fc735bf99d7e064334cd297f9cfaa450a782e0c5b40ed807985b4a814f8ed": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "A car that was in its garage when the restart was paused does not line up on the grid. It must re-enter the Pit Lane and may join the TTCS only once the Pit Lane exit is opened after the standing start resumption [2][3].\n\nIf it fails to resume the TTCS from the Pit Lane when required, a Stop-and-Go Penalty will be imposed [3]. The passages do not specify a particular position within the Pit Lane for this car.",
+  "gen_s": 3.048011416999998,
+  "usage": {
+   "input_tokens": 1440,
+   "output_tokens": 342,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 199
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "448061aaf5382aeadde5e9deceb9cdfb34dd5509d4be2a4ee59719d8aea33020": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-19",
+  "answer": "A car that was in its garage when the restart was suspended lines up at the **back of the line of F1 Cars in the Fast Lane**, in the order it arrives there. [3]\n\nBefore it can join, the car must re-enter the Pit Lane. It may join the TTCS once the Pit Lane exit opens after the resumption. [1][2] The Safety Car is positioned at the front of the line of F1 Cars in the Fast Lane. [3]\n\nThe passages describe the Pit Lane timing slightly differently. [3] says these cars are \"permitted to leave the Pit Lane at the resumption time,\" while [1] and [2] tie joining to the Pit Lane exit opening after the resumption.",
+  "gen_s": 3.6873229160000847,
+  "usage": {
+   "input_tokens": 1888,
+   "output_tokens": 572,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 347
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
  }
 }
