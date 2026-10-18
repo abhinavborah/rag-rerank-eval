@@ -143,12 +143,16 @@ table above.
 * **Screened batch (18 hand-written candidates).** Cosine screening kept 1 whose gold was at baseline rank 4
   to 10; it moved from 10 to 5, outside the top 3. 0 of 1 restored.
 * **Model-written questions (150 generated, 19 kept, 15 restored).** `claude-haiku-5-5` wrote one question
-  for each of 150 randomly sampled chunks (seed 20261019); the source chunk is the gold. After a
+  for each of 150 randomly sampled chunks (seed 20261019); the source chunk is the gold. The instruction,
+  fixed beforehand, asked for a question in everyday words using plain words instead of the regulation's
+  own defined terms where a plain word exists, which deliberately targets the bi-encoder's weakness with
+  vocabulary mismatch. After a
   cosine-only screen kept the 19 questions whose gold was at baseline rank 4 to 10, the two pipelines were
   run once. The gold chunk entered the top 3 for 15 of 19. Reading the answers against the clause text, in
   10 of those 15 Answer 1 says the passages do not cover the question or is wrong while Answer 2 is correct;
   in the other 5 the rank changes but the answer does not, or the gold label is weak. The questions are
-  model written and are not the author's wording.
+  model written and are not the author's wording. A random reordering of 10 chunks would put the gold chunk
+  in the top 3 with probability 0.3, so 15 or more of 19 has a binomial tail probability of about 1.5e-5.
 
 ## Limitations
 
@@ -159,8 +163,8 @@ table above.
   a definition chunk that never reaches the top 3.
 * A 10-chunk re-ranker can only help a query whose best gold chunk is at baseline ranks 4 to 10. Of the 61
   queries in the first three sets, three were (Q07, one follow-up query and the screened one).
-* Output budget: five answers in the main run reached the 800 token budget (Q09 Answer 2, Q11 both, Q15
-  Answer 2, Q26 both). Both answers of the affected queries were generated again at 2000 tokens as a
+* Output budget: five saved answers in the main run reached the 800 token budget, in six answer slots
+  because both answers of Q11 share one prompt (Q09 Answer 2, Q11 both, Q15 Answer 2, Q26 both). Both answers of the affected queries were generated again at 2000 tokens as a
   labelled supplement and the original answers stay primary. Five queries of the model-written set were
   treated the same way.
 * The generator is not deterministic. Where both pipelines pass the same three chunks in a different order
