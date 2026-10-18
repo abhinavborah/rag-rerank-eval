@@ -1,0 +1,135 @@
+{
+ "969d02f20f598e260323dad56ddb0086acbebb77d7b562a0689d278d18314b9a": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "At a Standard Format Competition, each driver is allocated **8 sets of Soft Specification dry-weather tyres** [1].\n\nThe table in the passage is garbled, so this reading depends on matching the column order. The first column, labelled Standard Format, gives 8 for Soft. The other columns give 6 (Standard Format with ICTT) and 7 (Alternative Format) [1].",
+  "gen_s": 3.9448128329822794,
+  "usage": {
+   "input_tokens": 1141,
+   "output_tokens": 492,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 365
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "5350bf28e1d5ddd91dff679e903ed51888b06f5b5933c36df88837a0d21701f7": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Each driver is allocated **8 sets of soft-specification dry-weather tyres** at a Standard Format Competition [1].\n\nThe table in [1] is poorly formatted, so this reading depends on matching the column order. The first column of values corresponds to the Standard Format Competition, and the soft-tyre row gives 8 there. Under the Standard Format Competition with ICTT, the allocation is 6 soft sets [1].",
+  "gen_s": 3.74404716596473,
+  "usage": {
+   "input_tokens": 1231,
+   "output_tokens": 561,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 422
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "9815509996938149e294069c340e1b8320fd105fd655cee5679e6879d908b0c6": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Generally, no. Work on a car in the Fast Lane is prohibited unless a specific exception applies. Competitors may not work on a car or leave equipment in the Fast Lane, except as detailed in Articles B5.3.3 and B5.14.4a [3]. The Inner Lane is otherwise the only area where work on an F1 car can be carried out [2][3].\n\nThe exception in Article B5.3.3 covers cars starting from the end of the Pit Lane. Work there is permitted until 15 seconds before the formation lap begins, after which all personnel and equipment must be clear of the Fast Lane [1]. Permitted work is limited to:\n\n- Starting the engine and directly associated preparation.\n- Fitting or removing permitted cooling and heating devices.\n- Changes made for driver comfort.\n- Changing wheels and tyres, subject to Article B5.5.3.\n- Adjusting the front wing profiles, where not controlled by the FIA Standard ECU, under Article C3.10.10. No parts may be added, removed, or replaced [1].\n\nDrivers must follow marshals' directions at all times [1]. Even where work is otherwise allowed, it may not be carried out in the Fast Lane if it is likely to hinder other F1 cars attempting to leave the Pit Lane [2][3].\n\nThe passages do not cover Article B5.14.4a, which is the other exception cited, so they do not say what work it permits.",
+  "gen_s": 5.4030115000205114,
+  "usage": {
+   "input_tokens": 1256,
+   "output_tokens": 738,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 270
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "a8d90cb842c0e440ffd1d49f12dfc0541f6d2715b51c089ba0ce9159040bff10": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "Under the passages provided, a team can replace parts on a car in parc ferm\u00e9 only in two situations:\n\n1. **Work listed in Appendix B2.** Article B3.5.3 bars replacing or modifying any part of the car, except for work listed in Appendix B2 or approved by the Technical Delegate under Article B3.5.4 [1]. Appendix B2 itself is not included in the passages.\n\n2. **Work approved by the Technical Delegate.** The same article allows work that the Technical Delegate approves under Article B3.5.4 [1]. Article B3.5.9 adds that parts replaced with the Technical Delegate's specific agreement while cars are under parc ferm\u00e9 conditions must be published and distributed to all Competitors before the Race [2].\n\nAny replacement outside these exceptions breaches parc ferm\u00e9. The penalty depends on the format: at a Standard Format Competition, the driver must start the Race from the Pit Lane. At an Alternative Format Competition, a breach before the Sprint start means starting the Sprint from the Pit Lane, and a breach after Qualifying has started means starting the Race from the Pit Lane [1].\n\nThe passages do not contain the text of Article B3.5.4 or Appendix B2, so they do not say which specific parts are permitted or how the Technical Delegate grants approval. Article B3.5.7 also limits changes to suspension and aerodynamic configuration, except the front wing, to those that clearly require tools, but it does not give permission for any change [3].",
+  "gen_s": 3.992016959004104,
+  "usage": {
+   "input_tokens": 767,
+   "output_tokens": 688,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 201
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "1e8cbf4978ec44429349613622b6531cb891f2db27c5ae87b703b40d88753e61": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "A team may replace or modify parts on a car in parc ferm\u00e9 only in two situations:\n\n1. **Work listed in Appendix B2.** Article B3.5.3 says that, apart from the sealing provided for in Articles B3.4.2 and B3.4.3, only work listed in Appendix B2 may be carried out [1]. Appendix B2 permits:\n   - Adjusting tyre pressures [3].\n   - Weighing the car using an allocated tyre set or travel tyres [3].\n   - Fitting exhaust extraction devices while starting the engine in the garage [3].\n   - Changing the survival cell, but only if the car has suffered genuine accident damage or a significant failure or fault. All components of the replacement car must match the original in design and be similar in mass, inertia and function, and the suspension set-up must be the same [3].\n\n2. **Work approved by the Technical Delegate.** Work approved by the Technical Delegate under Article B3.5.4 is also allowed [1]. Appendix B2 also covers any other work the Technical Delegate requests [3]. The excerpts do not include the text of Article B3.5.4, so they do not say how that approval is obtained.\n\nOutside these cases, no part may be replaced or modified, and no changes may be made to the car's setup or configuration [1].\n\nIf parc ferm\u00e9 conditions are breached, the consequences depend on the format. At a Standard Format Competition, the driver must start the Race from the Pit Lane. At an Alternative Format Competition, a breach before the Sprint means the Sprint starts from the Pit Lane, and a breach after Qualifying has started means the Race starts from the Pit Lane [1].",
+  "gen_s": 5.082701125065796,
+  "usage": {
+   "input_tokens": 1055,
+   "output_tokens": 874,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 334
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "7e2c276870883b7554392a9b0929aae36ec89f5e44e4657ee8b78137b3ec28da": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "For an incident during a TTCS, the stewards may impose any one of these penalties on any driver involved [2]:\n\n- a. A 5-second time penalty\n- b. A 10-second time penalty\n- c. A drive-through penalty\n- d. A 10-second stop-and-go penalty\n- e. A time penalty\n- f. A driver reprimand\n- g. A Competitor (F1 Team) reprimand\n\nStewards must also not penalise a driver unless it is clear that the driver was wholly or predominantly to blame [1]. They may impose these penalties in addition to or instead of other penalties available under the ISC [1].\n\nSeparately, a driver who receives five reprimands (at least four for driving infringements) in the same Championship receives a 10-grid-place penalty. If the fifth reprimand follows an incident during a Race, the grid penalty applies at the driver's next Competition [2].\n\nThe passages do not define \"TTCS\" or explicitly state that a Race is a TTCS. The answer above assumes the Race falls under that heading, since the reprimand rule refers to incidents \"during a Race\" as a separate case.",
+  "gen_s": 5.116878125001676,
+  "usage": {
+   "input_tokens": 1397,
+   "output_tokens": 868,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 507
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ },
+ "2c57dd5d1555b4b0e8937bcefa76a9fa2db7a4ac4f74eb6f7670db0ab2c5638b": {
+  "model": "claude-haiku-5-5",
+  "date": "2026-10-18",
+  "answer": "The passages do not directly list the penalties for an incident during the Race. They give related rules, though.\n\n- **Penalties for incidents during a TTCS [1]:** The stewards may impose any one of these on any driver involved: a 5-second penalty, a 10-second penalty, a drive-through penalty, a 10-second stop-and-go penalty, a time penalty, a driver reprimand, or a Competitor (F1 Team) reprimand. The passages do not state whether a Race falls under the TTCS rules.\n\n- **Penalties for incidents during an LTCS [2]:** The stewards may delete a driver's lap time(s) or drop the driver a number of grid positions. Any grid position penalty is served in the Race, unless the infringement occurred in Sprint Qualifying, in which case it applies to the Sprint grid.\n\n- **General discretion [3]:** The stewards decide whether a driver involved in an Incident should be penalised. No penalty is imposed unless the stewards judge the driver wholly or predominantly to blame. The stewards may impose the penalties specified in the regulations in addition to or instead of other penalties available under the ISC.\n\n- **Race-specific reference [1]:** A driver who receives five reprimands (at least four for driving infringements) in the same Championship receives a ten-grid-place penalty. If the fifth reprimand follows an incident during a Race, the penalty is applied at the driver's next Competition.",
+  "gen_s": 5.581583250081167,
+  "usage": {
+   "input_tokens": 1112,
+   "output_tokens": 966,
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 0,
+   "output_tokens_details": {
+    "thinking_tokens": 499
+   },
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   }
+  }
+ }
+}
