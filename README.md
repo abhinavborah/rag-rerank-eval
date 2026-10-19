@@ -78,6 +78,7 @@ queries again, so re-running the notebook does not overwrite a record. To redo a
 | File | Content |
 |---|---|
 | `rag_rerank_eval.ipynb` | the notebook, with outputs |
+| `report/2025204042-rag-report.pdf` | the report |
 | `queries.json` | the 30 main queries with gold chunks and failure types, fixed before they were run |
 | `queries_explore.json` | 14 follow-up queries on near-duplicate clauses |
 | `queries_screen.json` | 18 hand-written candidates for the screened batch |
